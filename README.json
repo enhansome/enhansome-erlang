@@ -1,0 +1,1191 @@
+{
+  "items": [
+    {
+      "description": "Web development frameworks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cowboy",
+          "description": "A simple HTTP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-28T08:45:39Z",
+            "owner": "ninenines",
+            "repo": "cowboy",
+            "stars": 7524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MochiWeb",
+          "description": "An Erlang library for building lightweight HTTP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-10T23:56:52Z",
+            "owner": "mochi",
+            "repo": "mochiweb",
+            "stars": 1890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChicagoBoss",
+          "description": "A server framework inspired by Rails and written in Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2022-01-10T14:03:59Z",
+            "owner": "ChicagoBoss",
+            "repo": "ChicagoBoss",
+            "stars": 1849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "N2O",
+          "description": "WebSocket Application Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-04T10:30:12Z",
+            "owner": "synrc",
+            "repo": "n2o",
+            "stars": 1342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nitrogen",
+          "description": "Framework to build web applications (including front-end) in pure Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-26T15:08:39Z",
+            "owner": "nitrogen",
+            "repo": "nitrogen",
+            "stars": 983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zotonic",
+          "description": "High speed, real-time web framework and content management system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-12T11:26:27Z",
+            "owner": "zotonic",
+            "repo": "zotonic",
+            "stars": 847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Axiom",
+          "description": "A micro-framework, inspired by Ruby's Sinatra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2023-02-16T10:09:03Z",
+            "owner": "tsujigiri",
+            "repo": "axiom",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Giallo",
+          "description": "A small and flexible web framework on top of Cowboy.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2013-08-01T07:52:02Z",
+            "owner": "Kivra-Archive",
+            "repo": "giallo",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Web Frameworks"
+    },
+    {
+      "description": "Standalone component from web development frameworks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "simple_bridge",
+          "description": "An abstraction layer providing a unified interface to popular Erlang web servers (Cowboy, Inets, Mochiweb, Webmachine, and Yaws).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-27T00:49:53Z",
+            "owner": "nitrogen",
+            "repo": "simple_bridge",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cb_admin",
+          "description": "An admin interface for Chicago Boss.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-06-10T15:19:22Z",
+            "owner": "ChicagoBoss",
+            "repo": "cb_admin",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giallo_session",
+          "description": "A session management library for the Giallo web framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2014-01-15T10:32:13Z",
+            "owner": "Kivra-Archive",
+            "repo": "giallo_session",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cb_websocket_controller",
+          "description": "A template for implementing a Websocket controller for ChicagoBoss.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2013-01-24T04:41:51Z",
+            "owner": "dkuhlman",
+            "repo": "cb_websocket_controller",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Web Framework Components"
+    },
+    {
+      "description": "Libraries for working with HTTP and scraping websites.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hackney",
+          "description": "Simple HTTP client in Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-12T05:53:49Z",
+            "owner": "benoitc",
+            "repo": "hackney",
+            "stars": 1417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gun",
+          "description": "Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-28T08:40:44Z",
+            "owner": "ninenines",
+            "repo": "gun",
+            "stars": 947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ibrowse",
+          "description": "Erlang HTTP client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-05-01T04:14:21Z",
+            "owner": "cmullaparthi",
+            "repo": "ibrowse",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bullet",
+          "description": "Simple, reliable, efficient streaming for Cowboy.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2018-12-11T13:40:55Z",
+            "owner": "ninenines",
+            "repo": "bullet",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shotgun",
+          "description": "For the times you need more than just a gun.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-17T08:55:38Z",
+            "owner": "inaka",
+            "repo": "shotgun",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lhttpc",
+          "description": "A lightweight HTTP/1.1 client implemented in Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2022-03-29T11:22:44Z",
+            "owner": "esl",
+            "repo": "lhttpc",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "HTTP"
+    },
+    {
+      "description": "Libraries for testing codebases and generating test data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PropEr",
+          "description": "A QuickCheck-inspired property-based testing tool for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-24T06:05:22Z",
+            "owner": "proper-testing",
+            "repo": "proper",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tracerl",
+          "description": "Dynamic tracing tests and utilities for Erlang/OTP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2014-07-31T09:00:52Z",
+            "owner": "esl",
+            "repo": "tracerl",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "Libraries for generating and working with log files.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "logplex",
+          "description": "Heroku log router.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2022-02-14T10:25:12Z",
+            "owner": "heroku",
+            "repo": "logplex",
+            "stars": 981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lager",
+          "description": "A logging framework for Erlang/OTP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2017-04-07T13:50:10Z",
+            "owner": "basho",
+            "repo": "lager",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lager_amqp_backend",
+          "description": "AMQP RabbitMQ Lager backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2012-04-13T20:46:30Z",
+            "owner": "jbrisbin",
+            "repo": "lager_amqp_backend",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lager_loggly",
+          "description": "Loggly backend for lager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2016-10-26T22:18:45Z",
+            "owner": "Kivra-Archive",
+            "repo": "lager_loggly",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lager_smtp",
+          "description": "SMTP backend for lager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2012-11-08T23:01:07Z",
+            "owner": "blinkov",
+            "repo": "lager_smtp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lager_hipchat",
+          "description": "HipChat backend for lager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2017-01-08T22:26:34Z",
+            "owner": "synlay",
+            "repo": "lager_hipchat",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lager_slack",
+          "description": "Simple Slack backend for lager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-05-30T16:06:54Z",
+            "owner": "furmanOFF",
+            "repo": "lager_slack",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "Libraries for gathering metrics and monitoring.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "folsom",
+          "description": "An Erlang based metrics system inspired by Coda Hale's metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-11-07T02:47:54Z",
+            "owner": "boundary",
+            "repo": "folsom",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exometer",
+          "description": "An Erlang instrumentation package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2019-06-14T09:40:23Z",
+            "owner": "Feuerlabs",
+            "repo": "exometer",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eper",
+          "description": "A loose collection of Erlang Performance related tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-07-06T13:31:54Z",
+            "owner": "massemanet",
+            "repo": "eper",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "entop",
+          "description": "A top-like Erlang node monitoring tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2019-05-29T22:12:23Z",
+            "owner": "mazenharake",
+            "repo": "entop",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vmstats",
+          "description": "Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-09-11T19:57:34Z",
+            "owner": "ferd",
+            "repo": "vmstats",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statsderl",
+          "description": "A statsd Erlang client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-05T13:26:57Z",
+            "owner": "lpgauth",
+            "repo": "statsderl",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "Libraries and tools for analysing, parsing and manipulation codebases.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eflame",
+          "description": "A Flame Graph profiler for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2023-12-13T14:59:28Z",
+            "owner": "proger",
+            "repo": "eflame",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concuerror",
+          "description": "Concuerror is a systematic testing tool for concurrent Erlang programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-24T08:24:52Z",
+            "owner": "parapluu",
+            "repo": "Concuerror",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geas",
+          "description": "Geas is a tool that will detect the runnable official Erlang release window for your project, including its dependencies and provides many useful informations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-06-14T14:58:18Z",
+            "owner": "crownedgrouse",
+            "repo": "geas",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Code Analysis"
+    },
+    {
+      "description": "Project build and automation tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rebar3",
+          "description": "A build tool for Erlang which can manage Erlang packages from Hex.pm. See more at rebar3.org",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-10T13:38:11Z",
+            "owner": "erlang",
+            "repo": "rebar3",
+            "stars": 1816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rebar",
+          "description": "Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2018-02-01T09:34:05Z",
+            "owner": "rebar",
+            "repo": "rebar",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sync",
+          "description": "On-the-fly recompiling for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-06-30T16:25:36Z",
+            "owner": "rustyio",
+            "repo": "sync",
+            "stars": 761
+          }
+        }
+      ],
+      "title": "Build Tools"
+    },
+    {
+      "description": "Libraries for geocoding addresses and working with latitudes and longitudes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeoCouch",
+          "description": "A spatial extension for Couchbase and Apache CouchDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2021-11-10T12:00:03Z",
+            "owner": "couchbase",
+            "repo": "geocouch",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erl-rstar",
+          "description": "An Erlang implementation of the R*-tree spacial data structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-07-11T00:56:37Z",
+            "owner": "armon",
+            "repo": "erl-rstar",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teles",
+          "description": "An Erlang network service for manipulating geographic data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2016-07-22T23:05:44Z",
+            "owner": "armon",
+            "repo": "teles",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Geolocation"
+    },
+    {
+      "description": "Libraries for working with dates and times.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qdate",
+          "description": "Erlang date, time, and timezone management: formatting, conversion, and date arithmetic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-26T05:16:16Z",
+            "owner": "choptastic",
+            "repo": "qdate",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erlang_localtime",
+          "description": "Erlang library for conversion from one local time to another.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2017-02-04T14:04:23Z",
+            "owner": "dmitryme",
+            "repo": "erlang_localtime",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Date and Time"
+    },
+    {
+      "description": "Libraries that implement object-relational mapping or datamapping techniques.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "epgsql",
+          "description": "PostgreSQL Driver for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-24T14:05:01Z",
+            "owner": "epgsql",
+            "repo": "epgsql",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mysql-otp",
+          "description": "MySQL/OTP – MySQL driver for Erlang/OTP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-06-10T10:02:30Z",
+            "owner": "mysql-otp",
+            "repo": "mysql-otp",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boss_db",
+          "description": "A sharded, caching, pooling, evented ORM for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2024-01-05T12:27:11Z",
+            "owner": "ErlyORM",
+            "repo": "boss_db",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgsql_migration",
+          "description": "PostgreSQL migrations for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2023-01-20T21:50:38Z",
+            "owner": "artemeff",
+            "repo": "pgsql_migration",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "ORM and Datamapping"
+    },
+    {
+      "description": "Libraries for working with event and task queues.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pqueue",
+          "description": "Erlang Priority Queues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2023-10-26T18:50:55Z",
+            "owner": "okeuday",
+            "repo": "pqueue",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinymq",
+          "description": "A diminutive, in-memory message queue for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2021-01-16T16:07:29Z",
+            "owner": "ChicagoBoss",
+            "repo": "tinymq",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dq",
+          "description": "Distributed Fault Tolerant Queue library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2015-02-14T00:40:19Z",
+            "owner": "darach",
+            "repo": "dq",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ebqueue",
+          "description": "Tiny simple blocking queue in erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2015-01-08T00:04:38Z",
+            "owner": "rgrinberg",
+            "repo": "ebqueue",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Queue"
+    },
+    {
+      "description": "Libraries for parsing and manipulating text and numbers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jiffy",
+          "description": "JSON NIFs for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-01T00:19:34Z",
+            "owner": "davisp",
+            "repo": "jiffy",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsx",
+          "description": "An erlang application for consuming, producing and manipulating json.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2024-06-26T15:39:01Z",
+            "owner": "talentdeficit",
+            "repo": "jsx",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eql",
+          "description": "Erlang with SQL or not.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2024-01-02T21:03:39Z",
+            "owner": "artemeff",
+            "repo": "eql",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rec2json",
+          "description": "Generate JSON encoder/decoder from record specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2024-07-02T18:48:46Z",
+            "owner": "lordnull",
+            "repo": "rec2json",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qsp",
+          "description": "Enhanced query string parser for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2016-10-30T09:57:36Z",
+            "owner": "artemeff",
+            "repo": "qsp",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miffy",
+          "description": "Jiffy wrapper which returns pretty maps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-09-24T13:57:21Z",
+            "owner": "expelledboy",
+            "repo": "miffy",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ejsv",
+          "description": "Erlang JSON schema validator.",
+          "children": []
+        }
+      ],
+      "title": "Text and Numbers"
+    },
+    {
+      "description": "Libraries and web tools for developing REST-ful APIs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "leptus",
+          "description": "Leptus is an Erlang REST framework that runs on top of cowboy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2021-05-13T15:13:36Z",
+            "owner": "sinasamavati",
+            "repo": "leptus",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rooster",
+          "description": "rooster is a lightweight REST framework that runs on top of mochiweb.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2017-11-19T23:35:35Z",
+            "owner": "fbeline",
+            "repo": "rooster",
+            "stars": 171
+          }
+        }
+      ],
+      "title": "REST and API"
+    },
+    {
+      "description": "Libraries for accessing third party APIs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "restc",
+          "description": "An Erlang REST client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-22T06:40:52Z",
+            "owner": "kivra",
+            "repo": "restclient",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oauth2c",
+          "description": "An Erlang oAuth 2 client (uses restc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-28T11:34:40Z",
+            "owner": "kivra",
+            "repo": "oauth2_client",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google-token-erlang",
+          "description": "Google ID token verifier for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2018-05-02T10:26:32Z",
+            "owner": "ruel",
+            "repo": "google-token-erlang",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Third Party APIs"
+    },
+    {
+      "description": "Libraries and tools for using network related stuff.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ranch",
+          "description": "Socket acceptor pool for TCP protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-28T08:16:21Z",
+            "owner": "ninenines",
+            "repo": "ranch",
+            "stars": 1242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gen_rpc",
+          "description": "A scalable RPC library for Erlang-VM based languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-11-05T06:26:50Z",
+            "owner": "priestjim",
+            "repo": "gen_rpc",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "barrel_tcp",
+          "description": "barrel_tcp is a generic TCP acceptor pool with low latency in Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2015-07-28T06:09:49Z",
+            "owner": "benoitc-attic",
+            "repo": "barrel_tcp",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gossiperl",
+          "description": "Language agnostic gossip middleware and message bus written in Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2021-09-30T05:47:46Z",
+            "owner": "gossiperl",
+            "repo": "gossiperl",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nat_upnp",
+          "description": "Erlang library to map your internal port to an external using UNP IGD.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2019-07-03T03:49:11Z",
+            "owner": "benoitc",
+            "repo": "nat_upnp",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gen_tcp_server",
+          "description": "A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2015-04-07T13:26:09Z",
+            "owner": "rpt",
+            "repo": "gen_tcp_server",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "Libraries and implementations of algorithms and datastructures.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "riak_dt",
+          "description": "Erlang library of state based CRDTs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2023-03-14T09:30:19Z",
+            "owner": "basho",
+            "repo": "riak_dt",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statebox",
+          "description": "Erlang state \"monad\" with merge/conflict-resolution capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2015-02-03T18:48:37Z",
+            "owner": "mochi",
+            "repo": "statebox",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datum",
+          "description": "A pure functional and generic programming for Erlang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-07-07T16:35:25Z",
+            "owner": "fogfish",
+            "repo": "datum",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erlando",
+          "description": "A set of syntax extensions like currying and monads for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2025-09-17T08:33:41Z",
+            "owner": "travelping",
+            "repo": "erlando",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Algorithms and Datastructures"
+    },
+    {
+      "description": "Libraries providing translations or internationalizations.",
+      "items": [],
+      "title": "Translations and Internationalizations"
+    },
+    {
+      "description": "Useful libraries or tools that don't fit in the categories above.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "erlang-history",
+          "description": "Hacks to add shell history to Erlang's shell.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Erlang",
+            "last_commit": "2018-03-02T07:08:07Z",
+            "owner": "ferd",
+            "repo": "erlang-history",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erld",
+          "description": "erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-05-16T04:00:45Z",
+            "owner": "ShoreTel-Inc",
+            "repo": "erld",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "General web-development-related reading materials.",
+      "items": [],
+      "title": "Web Reading"
+    },
+    {
+      "description": "Cool video tutorials.\nPlease see CONTRIBUTING for details.",
+      "items": [],
+      "title": "Screencasts"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:55:40.397Z",
+    "original_repository": "drobakowski/awesome-erlang",
+    "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
+    "enhanced_repository": "enhansome/enhansome-erlang",
+    "enhanced_repository_description": null,
+    "title": "Awesome Erlang with stars"
+  }
+}
