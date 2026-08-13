@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,157 | 🐛 26 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,158 | 🐛 26 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -64,20 +64,20 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools to maintain a clean codebase.*
 
-* [elvis](https://github.com/inaka/elvis) ⭐ 435 | 🐛 1 | 🌐 Erlang | 📅 2026-07-09 - Erlang Style Reviewer.
+* [elvis](https://github.com/inaka/elvis) ⭐ 434 | 🐛 1 | 🌐 Erlang | 📅 2026-07-09 - Erlang Style Reviewer.
 
 ## Web Frameworks
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,524 | 🐛 63 | 🌐 Erlang | 📅 2026-07-28 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,523 | 🐛 63 | 🌐 Erlang | 📅 2026-07-28 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,890 | 🐛 11 | 🌐 Erlang | 📅 2026-08-10 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,849 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,342 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 192 | 🌐 Erlang | 📅 2026-08-12 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 266 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,454 | 🐛 47 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,524 | 🐛 63 | 🌐 Erlang | 📅 2026-07-28.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 196 | 🌐 Erlang | 📅 2026-08-13 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 266 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,452 | 🐛 47 | 🌐 Ruby | 📅 2026-07-20.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,523 | 🐛 63 | 🌐 Erlang | 📅 2026-07-28.
 
 ## Web Framework Components
 
@@ -92,7 +92,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for working with HTTP and scraping websites.*
 
-* [hackney](https://github.com/benoitc/hackney) ⭐ 1,417 | 🐛 11 | 🌐 Erlang | 📅 2026-08-12 - Simple HTTP client in Erlang.
+* [hackney](https://github.com/benoitc/hackney) ⭐ 1,416 | 🐛 11 | 🌐 Erlang | 📅 2026-08-12 - Simple HTTP client in Erlang.
 * [gun](https://github.com/ninenines/gun) ⭐ 947 | 🐛 24 | 🌐 Erlang | 📅 2026-07-28 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 518 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP client.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - Simple, reliable, efficient streaming for Cowboy.
@@ -111,7 +111,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for generating and working with log files.*
 
 * [logplex](https://github.com/heroku/logplex) ⚠️ Archived - Heroku log router.
-* [lager](https://github.com/basho/lager) ⭐ 42 | 🐛 0 | 🌐 Erlang | 📅 2017-04-07 - A logging framework for Erlang/OTP.
+* [lager](https://github.com/basho/lager) ⚠️ Archived - A logging framework for Erlang/OTP.
 * [lager\_amqp\_backend](https://github.com/jbrisbin/lager_amqp_backend) ⭐ 34 | 🐛 2 | 🌐 Erlang | 📅 2012-04-13 - AMQP RabbitMQ Lager backend.
 * [lager\_loggly](https://github.com/kivra/lager_loggly) ⚠️ Archived - Loggly backend for lager.
 * [lager\_smtp](https://github.com/blinkov/lager_smtp) ⭐ 13 | 🐛 0 | 🌐 Erlang | 📅 2012-11-08 - SMTP backend for lager.
@@ -212,7 +212,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for parsing and manipulating text and numbers.*
 
-* [jiffy](https://github.com/davisp/jiffy) ⭐ 878 | 🐛 0 | 🌐 C | 📅 2026-07-01 - JSON NIFs for Erlang.
+* [jiffy](https://github.com/davisp/jiffy) ⭐ 879 | 🐛 0 | 🌐 C | 📅 2026-07-01 - JSON NIFs for Erlang.
 * [jsx](https://github.com/talentdeficit/jsx) ⭐ 699 | 🐛 25 | 🌐 Erlang | 📅 2024-06-26 - An erlang application for consuming, producing and manipulating json.
 * [eql](https://github.com/artemeff/eql) ⭐ 117 | 🐛 3 | 🌐 Erlang | 📅 2024-01-02 - Erlang with SQL or not.
 * [rec2json](https://github.com/lordnull/rec2json) ⭐ 45 | 🐛 3 | 🌐 Erlang | 📅 2024-07-02 - Generate JSON encoder/decoder from record specs.
@@ -287,7 +287,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 *Useful web and Erlang-related websites and newsletters.*
 
-* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) ⭐ 1,157 | 🐛 0 | 📅 2021-07-31 - All about erlang programming language \[powerd by community].
+* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) ⭐ 1,156 | 🐛 0 | 📅 2021-07-31 - All about erlang programming language \[powerd by community].
 * [Erlang Central](https://erlangcentral.org/) - An awesome collections of erlang resource along with live community chat for discussing and seeking help.
 * [Planet Erlang](http://www.planeterlang.com/) - Planet site/RSS feed of blog posts covering topics across the Erlang ecosystem.
 * [Spawned Shelter](http://spawnedshelter.com/) - Erlang Spawned Shelter. A collection of the best articles, videos and presentations related to Erlang.
@@ -316,7 +316,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,709 | 🐛 23 | 📅 2022-11-17 for details.
+Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,707 | 🐛 23 | 📅 2022-11-17 for details.
 
 ***
 

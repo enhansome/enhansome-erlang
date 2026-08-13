@@ -14,7 +14,7 @@
             "last_commit": "2026-07-28T08:45:39Z",
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7524
+            "stars": 7523
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-12T11:26:27Z",
+            "last_commit": "2026-08-13T13:12:40Z",
             "owner": "zotonic",
             "repo": "zotonic",
-            "stars": 847
+            "stars": 846
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-12T05:53:49Z",
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1417
+            "stars": 1416
           }
         },
         {
@@ -327,7 +327,7 @@
           "description": "A logging framework for Erlang/OTP.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Erlang",
             "last_commit": "2017-04-07T13:50:10Z",
             "owner": "basho",
@@ -814,7 +814,7 @@
             "last_commit": "2026-07-01T00:19:34Z",
             "owner": "davisp",
             "repo": "jiffy",
-            "stars": 878
+            "stars": 879
           }
         },
         {
@@ -1181,7 +1181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:55:40.397Z",
+    "last_updated": "2026-08-13T18:27:02.908Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
     "enhanced_repository": "enhansome/enhansome-erlang",
