@@ -1079,7 +1079,7 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2023-03-14T09:30:19Z",
+            "last_commit": "2026-08-14T13:01:29Z",
             "owner": "basho",
             "repo": "riak_dt",
             "stars": 357
@@ -1096,7 +1096,7 @@
             "last_commit": "2015-02-03T18:48:37Z",
             "owner": "mochi",
             "repo": "statebox",
-            "stars": 255
+            "stars": 256
           }
         },
         {
@@ -1181,7 +1181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:27:02.908Z",
+    "last_updated": "2026-08-14T18:25:03.416Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
     "enhanced_repository": "enhansome/enhansome-erlang",

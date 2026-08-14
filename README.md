@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,158 | 🐛 26 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,160 | 🐛 26 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -92,7 +92,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for working with HTTP and scraping websites.*
 
-* [hackney](https://github.com/benoitc/hackney) ⭐ 1,416 | 🐛 11 | 🌐 Erlang | 📅 2026-08-12 - Simple HTTP client in Erlang.
+* [hackney](https://github.com/benoitc/hackney) ⭐ 1,416 | 🐛 12 | 🌐 Erlang | 📅 2026-08-12 - Simple HTTP client in Erlang.
 * [gun](https://github.com/ninenines/gun) ⭐ 947 | 🐛 24 | 🌐 Erlang | 📅 2026-07-28 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 518 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP client.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - Simple, reliable, efficient streaming for Cowboy.
@@ -263,8 +263,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and implementations of algorithms and datastructures.*
 
-* [riak\_dt](https://github.com/basho/riak_dt) ⭐ 357 | 🐛 15 | 🌐 Erlang | 📅 2023-03-14 - Erlang library of state based CRDTs.
-* [statebox](https://github.com/mochi/statebox) ⭐ 255 | 🐛 2 | 🌐 Erlang | 📅 2015-02-03 - Erlang state "monad" with merge/conflict-resolution capabilities.
+* [riak\_dt](https://github.com/basho/riak_dt) ⭐ 357 | 🐛 10 | 🌐 Erlang | 📅 2026-08-14 - Erlang library of state based CRDTs.
+* [statebox](https://github.com/mochi/statebox) ⭐ 256 | 🐛 2 | 🌐 Erlang | 📅 2015-02-03 - Erlang state "monad" with merge/conflict-resolution capabilities.
 * [datum](https://github.com/fogfish/datum) ⭐ 127 | 🐛 11 | 🌐 Erlang | 📅 2025-07-07 - A pure functional and generic programming for Erlang
 * [erlando](https://github.com/travelping/erlando) ⭐ 1 | 🐛 0 | 🌐 Erlang | 📅 2025-09-17 - A set of syntax extensions like currying and monads for Erlang.
 
@@ -316,8 +316,8 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,707 | 🐛 23 | 📅 2022-11-17 for details.
+Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,708 | 🐛 23 | 📅 2022-11-17 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
