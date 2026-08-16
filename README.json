@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-10T23:56:52Z",
+            "last_commit": "2026-08-16T16:16:50Z",
             "owner": "mochi",
             "repo": "mochiweb",
             "stars": 1890
@@ -687,7 +687,7 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-07-24T14:05:01Z",
+            "last_commit": "2026-08-16T14:49:02Z",
             "owner": "epgsql",
             "repo": "epgsql",
             "stars": 445
@@ -1181,7 +1181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:46:21.772Z",
+    "last_updated": "2026-08-16T17:45:22.745Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
     "enhanced_repository": "enhansome/enhansome-erlang",
