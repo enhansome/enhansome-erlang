@@ -14,7 +14,7 @@
             "last_commit": "2026-07-28T08:45:39Z",
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7524
+            "stars": 7525
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-15T08:16:39Z",
+            "last_commit": "2026-08-17T12:21:43Z",
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
@@ -284,7 +284,7 @@
             "last_commit": "2026-06-24T06:05:22Z",
             "owner": "proper-testing",
             "repo": "proper",
-            "stars": 917
+            "stars": 918
           }
         },
         {
@@ -557,7 +557,7 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-10T13:38:11Z",
+            "last_commit": "2026-08-17T17:03:32Z",
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1816
@@ -1181,7 +1181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:45:22.745Z",
+    "last_updated": "2026-08-17T17:56:34.523Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
     "enhanced_repository": "enhansome/enhansome-erlang",
