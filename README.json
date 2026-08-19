@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1460612,
             "language": "Erlang",
             "last_commit": "2026-07-28T08:45:39Z",
             "owner": "ninenines",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680799,
             "language": "Erlang",
             "last_commit": "2026-08-16T16:16:50Z",
             "owner": "mochi",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325927,
             "language": "Erlang",
             "last_commit": "2022-01-10T14:03:59Z",
             "owner": "ChicagoBoss",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9104262,
             "language": "Erlang",
             "last_commit": "2026-06-04T10:30:12Z",
             "owner": "synrc",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68626,
             "language": "Erlang",
             "last_commit": "2026-07-26T15:08:39Z",
             "owner": "nitrogen",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1847706,
             "language": "Erlang",
             "last_commit": "2026-08-17T12:21:43Z",
             "owner": "zotonic",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5063831,
             "language": "Erlang",
             "last_commit": "2023-02-16T10:09:03Z",
             "owner": "tsujigiri",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8135750,
             "language": "Erlang",
             "last_commit": "2013-08-01T07:52:02Z",
             "owner": "Kivra-Archive",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202604,
             "language": "Erlang",
             "last_commit": "2026-07-27T00:49:53Z",
             "owner": "nitrogen",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2020241,
             "language": "CSS",
             "last_commit": "2016-06-10T15:19:22Z",
             "owner": "ChicagoBoss",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8204800,
             "language": "Erlang",
             "last_commit": "2014-01-15T10:32:13Z",
             "owner": "Kivra-Archive",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7786973,
             "language": "Erlang",
             "last_commit": "2013-01-24T04:41:51Z",
             "owner": "dkuhlman",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4864481,
             "language": "Erlang",
             "last_commit": "2026-08-12T05:53:49Z",
             "owner": "benoitc",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12277346,
             "language": "Erlang",
             "last_commit": "2026-07-28T08:40:44Z",
             "owner": "ninenines",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231268,
             "language": "Erlang",
             "last_commit": "2026-05-01T04:14:21Z",
             "owner": "cmullaparthi",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2470304,
             "language": "Erlang",
             "last_commit": "2018-12-11T13:40:55Z",
             "owner": "ninenines",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21953558,
             "language": "Erlang",
             "last_commit": "2026-06-17T08:55:38Z",
             "owner": "inaka",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1410878,
             "language": "Erlang",
             "last_commit": "2022-03-29T11:22:44Z",
             "owner": "esl",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 697866,
             "language": "Erlang",
             "last_commit": "2026-06-24T06:05:22Z",
             "owner": "proper-testing",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12458826,
             "language": "Erlang",
             "last_commit": "2014-07-31T09:00:52Z",
             "owner": "esl",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1165646,
             "language": "Erlang",
             "last_commit": "2022-02-14T10:25:12Z",
             "owner": "heroku",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73742733,
             "language": "Erlang",
             "last_commit": "2017-04-07T13:50:10Z",
             "owner": "basho",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2797996,
             "language": "Erlang",
             "last_commit": "2012-04-13T20:46:30Z",
             "owner": "jbrisbin",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5626136,
             "language": "Erlang",
             "last_commit": "2016-10-26T22:18:45Z",
             "owner": "Kivra-Archive",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4432501,
             "language": "Erlang",
             "last_commit": "2012-11-08T23:01:07Z",
             "owner": "blinkov",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8062053,
             "language": "Erlang",
             "last_commit": "2017-01-08T22:26:34Z",
             "owner": "synlay",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125777878,
             "language": "Erlang",
             "last_commit": "2018-05-30T16:06:54Z",
             "owner": "furmanOFF",
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1493089,
             "language": "Erlang",
             "last_commit": "2018-11-07T02:47:54Z",
             "owner": "boundary",
@@ -432,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11879291,
             "language": "Erlang",
             "last_commit": "2019-06-14T09:40:23Z",
             "owner": "Feuerlabs",
@@ -446,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607990,
             "language": "Erlang",
             "last_commit": "2018-07-06T13:31:54Z",
             "owner": "massemanet",
@@ -460,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 840788,
             "language": "Erlang",
             "last_commit": "2019-05-29T22:12:23Z",
             "owner": "mazenharake",
@@ -474,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3563867,
             "language": "Erlang",
             "last_commit": "2025-09-11T19:57:34Z",
             "owner": "ferd",
@@ -488,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2342839,
             "language": "Erlang",
             "last_commit": "2026-06-05T13:26:57Z",
             "owner": "lpgauth",
@@ -508,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12701335,
             "language": "Perl",
             "last_commit": "2023-12-13T14:59:28Z",
             "owner": "proger",
@@ -522,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18437700,
             "language": "Erlang",
             "last_commit": "2026-06-24T08:24:52Z",
             "owner": "parapluu",
@@ -536,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33823779,
             "language": "Erlang",
             "last_commit": "2026-06-14T14:58:18Z",
             "owner": "crownedgrouse",
@@ -556,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26610130,
             "language": "Erlang",
             "last_commit": "2026-08-17T17:59:00Z",
             "owner": "erlang",
@@ -570,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6393199,
             "language": "Erlang",
             "last_commit": "2018-02-01T09:34:05Z",
             "owner": "rebar",
@@ -584,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727813,
             "language": "Erlang",
             "last_commit": "2025-06-30T16:25:36Z",
             "owner": "rustyio",
@@ -604,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1433284,
             "language": "Erlang",
             "last_commit": "2021-11-10T12:00:03Z",
             "owner": "couchbase",
@@ -618,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6730369,
             "language": "Erlang",
             "last_commit": "2018-07-11T00:56:37Z",
             "owner": "armon",
@@ -632,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6929880,
             "language": "Erlang",
             "last_commit": "2016-07-22T23:05:44Z",
             "owner": "armon",
@@ -652,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7598128,
             "language": "Erlang",
             "last_commit": "2026-07-26T05:16:16Z",
             "owner": "choptastic",
@@ -666,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 856437,
             "language": "Erlang",
             "last_commit": "2017-02-04T14:04:23Z",
             "owner": "dmitryme",
@@ -686,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16806661,
             "language": "Erlang",
             "last_commit": "2026-08-16T14:49:02Z",
             "owner": "epgsql",
@@ -700,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25876565,
             "language": "Erlang",
             "last_commit": "2025-06-10T10:02:30Z",
             "owner": "mysql-otp",
@@ -714,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3354440,
             "language": "Erlang",
             "last_commit": "2024-01-05T12:27:11Z",
             "owner": "ErlyORM",
@@ -728,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30691700,
             "language": "Erlang",
             "last_commit": "2023-01-20T21:50:38Z",
             "owner": "artemeff",
@@ -748,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2739018,
             "language": "Erlang",
             "last_commit": "2023-10-26T18:50:55Z",
             "owner": "okeuday",
@@ -762,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5602305,
             "language": "Erlang",
             "last_commit": "2021-01-16T16:07:29Z",
             "owner": "ChicagoBoss",
@@ -776,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29360476,
             "language": "Erlang",
             "last_commit": "2015-02-14T00:40:19Z",
             "owner": "darach",
@@ -790,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28655299,
             "language": "Erlang",
             "last_commit": "2015-01-08T00:04:38Z",
             "owner": "rgrinberg",
@@ -810,11 +862,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1564769,
             "language": "C",
             "last_commit": "2026-07-01T00:19:34Z",
             "owner": "davisp",
             "repo": "jiffy",
-            "stars": 879
+            "stars": 880
           }
         },
         {
@@ -824,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684090,
             "language": "Erlang",
             "last_commit": "2024-06-26T15:39:01Z",
             "owner": "talentdeficit",
@@ -838,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28971895,
             "language": "Erlang",
             "last_commit": "2024-01-02T21:03:39Z",
             "owner": "artemeff",
@@ -852,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5825119,
             "language": "Erlang",
             "last_commit": "2024-07-02T18:48:46Z",
             "owner": "lordnull",
@@ -866,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23400328,
             "language": "Erlang",
             "last_commit": "2016-10-30T09:57:36Z",
             "owner": "artemeff",
@@ -880,18 +937,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97380731,
             "language": "Erlang",
             "last_commit": "2018-09-24T13:57:21Z",
             "owner": "expelledboy",
             "repo": "miffy",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ejsv",
-          "description": "Erlang JSON schema validator.",
-          "children": []
         }
       ],
       "title": "Text and Numbers"
@@ -906,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12931626,
             "language": "Erlang",
             "last_commit": "2021-05-13T15:13:36Z",
             "owner": "sinasamavati",
@@ -920,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80791142,
             "language": "Erlang",
             "last_commit": "2017-11-19T23:35:35Z",
             "owner": "fbeline",
@@ -940,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3715836,
             "language": "Erlang",
             "last_commit": "2026-07-22T06:40:52Z",
             "owner": "kivra",
@@ -954,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5426708,
             "language": "Erlang",
             "last_commit": "2026-07-28T11:34:40Z",
             "owner": "kivra",
@@ -968,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70716331,
             "language": "Erlang",
             "last_commit": "2018-05-02T10:26:32Z",
             "owner": "ruel",
@@ -988,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3944995,
             "language": "Erlang",
             "last_commit": "2026-07-28T08:16:21Z",
             "owner": "ninenines",
@@ -1002,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36317559,
             "language": "Erlang",
             "last_commit": "2025-11-05T06:26:50Z",
             "owner": "priestjim",
@@ -1016,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11266342,
             "language": "Erlang",
             "last_commit": "2015-07-28T06:09:49Z",
             "owner": "benoitc-attic",
@@ -1030,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27284923,
             "language": "Erlang",
             "last_commit": "2021-09-30T05:47:46Z",
             "owner": "gossiperl",
@@ -1044,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11099158,
             "language": "Erlang",
             "last_commit": "2019-07-03T03:49:11Z",
             "owner": "benoitc",
@@ -1058,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4520430,
             "language": "Erlang",
             "last_commit": "2015-04-07T13:26:09Z",
             "owner": "rpt",
@@ -1078,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2841977,
             "language": "Erlang",
             "last_commit": "2026-08-14T13:01:29Z",
             "owner": "basho",
@@ -1092,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1651949,
             "language": "Erlang",
             "last_commit": "2015-02-03T18:48:37Z",
             "owner": "mochi",
@@ -1106,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10343818,
             "language": "Erlang",
             "last_commit": "2025-07-07T16:35:25Z",
             "owner": "fogfish",
@@ -1120,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14798015,
             "language": "Erlang",
             "last_commit": "2025-09-17T08:33:41Z",
             "owner": "travelping",
@@ -1131,11 +1198,6 @@
       "title": "Algorithms and Datastructures"
     },
     {
-      "description": "Libraries providing translations or internationalizations.",
-      "items": [],
-      "title": "Translations and Internationalizations"
-    },
-    {
       "description": "Useful libraries or tools that don't fit in the categories above.",
       "items": [
         {
@@ -1145,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2819730,
             "language": "Erlang",
             "last_commit": "2018-03-02T07:08:07Z",
             "owner": "ferd",
@@ -1159,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4439219,
             "language": "C",
             "last_commit": "2016-05-16T04:00:45Z",
             "owner": "ShoreTel-Inc",
@@ -1168,21 +1232,12 @@
         }
       ],
       "title": "Miscellaneous"
-    },
-    {
-      "description": "General web-development-related reading materials.",
-      "items": [],
-      "title": "Web Reading"
-    },
-    {
-      "description": "Cool video tutorials.\nPlease see CONTRIBUTING for details.",
-      "items": [],
-      "title": "Screencasts"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:54:53.290Z",
+    "last_updated": "2026-08-19T12:26:31.962Z",
     "original_repository": "drobakowski/awesome-erlang",
+    "original_repository_id": 21693979,
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
     "enhanced_repository": "enhansome/enhansome-erlang",
     "enhanced_repository_description": null,
