@@ -15,7 +15,7 @@
             "last_commit": "2026-07-28T08:45:39Z",
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7524
+            "stars": 7526
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 1847706,
             "language": "Erlang",
-            "last_commit": "2026-08-17T12:21:43Z",
+            "last_commit": "2026-08-20T14:18:10Z",
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-12T05:53:49Z",
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1416
+            "stars": 1417
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-07-28T08:40:44Z",
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 947
+            "stars": 949
           }
         },
         {
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:51:03.703Z",
+    "last_updated": "2026-08-20T17:56:39.948Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_id": 21693979,
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
