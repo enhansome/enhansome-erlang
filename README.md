@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,161 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,164 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -64,20 +64,20 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools to maintain a clean codebase.*
 
-* [elvis](https://github.com/inaka/elvis) ⭐ 434 | 🐛 1 | 🌐 Erlang | 📅 2026-07-09 - Erlang Style Reviewer.
+* [elvis](https://github.com/inaka/elvis) ⭐ 434 | 🐛 1 | 🌐 Erlang | 📅 2026-08-21 - Erlang Style Reviewer.
 
 ## Web Frameworks
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,526 | 🐛 64 | 🌐 Erlang | 📅 2026-07-28 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 64 | 🌐 Erlang | 📅 2026-07-28 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,890 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,849 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,342 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 194 | 🌐 Erlang | 📅 2026-08-20 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 266 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,449 | 🐛 44 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,526 | 🐛 64 | 🌐 Erlang | 📅 2026-07-28.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 194 | 🌐 Erlang | 📅 2026-08-21 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 265 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,452 | 🐛 44 | 🌐 Ruby | 📅 2026-07-20.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 64 | 🌐 Erlang | 📅 2026-07-28.
 
 ## Web Framework Components
 
@@ -93,7 +93,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [hackney](https://github.com/benoitc/hackney) ⭐ 1,417 | 🐛 13 | 🌐 Erlang | 📅 2026-08-12 - Simple HTTP client in Erlang.
-* [gun](https://github.com/ninenines/gun) ⭐ 949 | 🐛 24 | 🌐 Erlang | 📅 2026-07-28 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
+* [gun](https://github.com/ninenines/gun) ⭐ 950 | 🐛 24 | 🌐 Erlang | 📅 2026-07-28 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 518 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP client.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - Simple, reliable, efficient streaming for Cowboy.
 * [shotgun](https://github.com/inaka/shotgun) ⭐ 168 | 🐛 17 | 🌐 Erlang | 📅 2026-06-17 - For the times you need more than just a gun.
@@ -213,7 +213,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for parsing and manipulating text and numbers.*
 
 * [jiffy](https://github.com/davisp/jiffy) ⭐ 880 | 🐛 0 | 🌐 C | 📅 2026-07-01 - JSON NIFs for Erlang.
-* [jsx](https://github.com/talentdeficit/jsx) ⭐ 699 | 🐛 25 | 🌐 Erlang | 📅 2024-06-26 - An erlang application for consuming, producing and manipulating json.
+* [jsx](https://github.com/talentdeficit/jsx) ⭐ 696 | 🐛 25 | 🌐 Erlang | 📅 2024-06-26 - An erlang application for consuming, producing and manipulating json.
 * [eql](https://github.com/artemeff/eql) ⭐ 117 | 🐛 3 | 🌐 Erlang | 📅 2024-01-02 - Erlang with SQL or not.
 * [rec2json](https://github.com/lordnull/rec2json) ⭐ 45 | 🐛 3 | 🌐 Erlang | 📅 2024-07-02 - Generate JSON encoder/decoder from record specs.
 * [qsp](https://github.com/artemeff/qsp) ⭐ 18 | 🐛 0 | 🌐 Erlang | 📅 2016-10-30 - Enhanced query string parser for Erlang.
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
