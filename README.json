@@ -87,7 +87,7 @@
             "archived": false,
             "id": 1847706,
             "language": "Erlang",
-            "last_commit": "2026-08-21T13:33:44Z",
+            "last_commit": "2026-08-22T16:03:33Z",
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:56:30.483Z",
+    "last_updated": "2026-08-22T17:46:22.674Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_id": 21693979,
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
