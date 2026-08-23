@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,164 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,163 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -93,7 +93,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [hackney](https://github.com/benoitc/hackney) ⭐ 1,417 | 🐛 13 | 🌐 Erlang | 📅 2026-08-12 - Simple HTTP client in Erlang.
-* [gun](https://github.com/ninenines/gun) ⭐ 950 | 🐛 24 | 🌐 Erlang | 📅 2026-07-28 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
+* [gun](https://github.com/ninenines/gun) ⭐ 949 | 🐛 24 | 🌐 Erlang | 📅 2026-07-28 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 518 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP client.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - Simple, reliable, efficient streaming for Cowboy.
 * [shotgun](https://github.com/inaka/shotgun) ⭐ 168 | 🐛 17 | 🌐 Erlang | 📅 2026-06-17 - For the times you need more than just a gun.
@@ -189,7 +189,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [epgsql](https://github.com/epgsql/epgsql) ⭐ 445 | 🐛 47 | 🌐 Erlang | 📅 2026-08-16 - PostgreSQL Driver for Erlang.
-* [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 374 | 🐛 9 | 🌐 Erlang | 📅 2025-06-10 - MySQL/OTP – MySQL driver for Erlang/OTP.
+* [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 375 | 🐛 9 | 🌐 Erlang | 📅 2025-06-10 - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [boss\_db](https://github.com/ErlyORM/boss_db) ⭐ 275 | 🐛 61 | 🌐 Erlang | 📅 2024-01-05 - A sharded, caching, pooling, evented ORM for Erlang.
 * [pgsql\_migration](https://github.com/artemeff/pgsql_migration) ⭐ 19 | 🐛 1 | 🌐 Erlang | 📅 2023-01-20 – PostgreSQL migrations for Erlang.
 
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
