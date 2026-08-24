@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "description": "Libraries and tools for release management.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "relx",
+          "description": "A release assembler for Erlang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9900098,
+            "language": "Erlang",
+            "last_commit": "2026-03-24T13:57:30Z",
+            "owner": "erlware",
+            "repo": "relx",
+            "stars": 692
+          }
+        }
+      ],
+      "title": "Release Management"
+    },
+    {
+      "description": "Libraries and tools related to configuration management.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stillir",
+          "description": "Cache environment variables as Erlang app variables.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 10744646,
+            "language": "Erlang",
+            "last_commit": "2025-12-09T17:12:23Z",
+            "owner": "heroku",
+            "repo": "stillir",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Configuration Management"
+    },
+    {
+      "description": "Libraries and tools to maintain a clean codebase.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "elvis",
+          "description": "Erlang Style Reviewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21137327,
+            "language": "Erlang",
+            "last_commit": "2026-08-21T07:19:08Z",
+            "owner": "inaka",
+            "repo": "elvis",
+            "stars": 434
+          }
+        }
+      ],
+      "title": "Codebase Maintenance"
+    },
+    {
       "description": "Web development frameworks.",
       "items": [
         {
@@ -87,7 +150,7 @@
             "archived": false,
             "id": 1847706,
             "language": "Erlang",
-            "last_commit": "2026-08-22T16:03:33Z",
+            "last_commit": "2026-08-24T08:23:53Z",
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
@@ -532,6 +595,48 @@
       "title": "Monitoring"
     },
     {
+      "description": "Libraries and tools related to deployment of Erlang/OTP applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "docker-erlang",
+          "description": "Basic Docker Container Images for Erlang/OTP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41678806,
+            "language": null,
+            "last_commit": "2017-11-23T21:45:24Z",
+            "owner": "synlay",
+            "repo": "docker-erlang",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "Tools for stress/load testing, latency issues, etc. across microservices.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Typhoon",
+          "description": "Stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test (SUT) and visualizes related latencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43510515,
+            "language": "Erlang",
+            "last_commit": "2019-08-24T15:10:07Z",
+            "owner": "fogfish",
+            "repo": "typhoon",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Distributed Systems"
+    },
+    {
       "description": "Libraries and tools for analysing, parsing and manipulation codebases.",
       "items": [
         {
@@ -594,7 +699,7 @@
             "archived": false,
             "id": 26610130,
             "language": "Erlang",
-            "last_commit": "2026-08-17T17:59:00Z",
+            "last_commit": "2026-08-24T14:06:08Z",
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1818
@@ -685,6 +790,48 @@
       "title": "Geolocation"
     },
     {
+      "description": "Libraries and tools for debugging code and applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tx",
+          "description": "An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24227329,
+            "language": "CSS",
+            "last_commit": "2014-10-08T14:37:39Z",
+            "owner": "kvakvs",
+            "repo": "tx",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": "Libraries and tools for working with actors and such.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "poolboy",
+          "description": "A hunky Erlang worker pool factory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1046213,
+            "language": "Erlang",
+            "last_commit": "2023-04-18T06:08:28Z",
+            "owner": "devinus",
+            "repo": "poolboy",
+            "stars": 1599
+          }
+        }
+      ],
+      "title": "Actors"
+    },
+    {
       "description": "Libraries for working with dates and times.",
       "items": [
         {
@@ -735,7 +882,7 @@
             "last_commit": "2026-08-16T14:49:02Z",
             "owner": "epgsql",
             "repo": "epgsql",
-            "stars": 445
+            "stars": 446
           }
         },
         {
@@ -1235,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:46:17.432Z",
+    "last_updated": "2026-08-24T14:07:50.020Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_id": 21693979,
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
