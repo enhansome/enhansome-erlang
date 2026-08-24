@@ -150,7 +150,7 @@
             "archived": false,
             "id": 1847706,
             "language": "Erlang",
-            "last_commit": "2026-08-24T08:23:53Z",
+            "last_commit": "2026-08-24T15:15:44Z",
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
@@ -699,7 +699,7 @@
             "archived": false,
             "id": 26610130,
             "language": "Erlang",
-            "last_commit": "2026-08-24T14:06:08Z",
+            "last_commit": "2026-08-24T15:46:03Z",
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1818
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:50.020Z",
+    "last_updated": "2026-08-24T17:57:58.800Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_id": 21693979,
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
