@@ -1197,7 +1197,7 @@
             "last_commit": "2026-07-28T08:16:21Z",
             "owner": "ninenines",
             "repo": "ranch",
-            "stars": 1242
+            "stars": 1243
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:57:58.800Z",
+    "last_updated": "2026-08-25T06:01:46.697Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_id": 21693979,
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
