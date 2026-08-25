@@ -64,20 +64,20 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools to maintain a clean codebase.*
 
-* [elvis](https://github.com/inaka/elvis) ⭐ 434 | 🐛 1 | 🌐 Erlang | 📅 2026-08-21 - Erlang Style Reviewer.
+* [elvis](https://github.com/inaka/elvis) ⭐ 435 | 🐛 1 | 🌐 Erlang | 📅 2026-08-21 - Erlang Style Reviewer.
 
 ## Web Frameworks
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 64 | 🌐 Erlang | 📅 2026-07-28 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 64 | 🌐 Erlang | 📅 2026-08-25 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,890 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,849 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
-* [N2O](https://github.com/synrc/n2o) ⭐ 1,342 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
+* [N2O](https://github.com/synrc/n2o) ⭐ 1,341 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 197 | 🌐 Erlang | 📅 2026-08-24 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 265 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,454 | 🐛 44 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 64 | 🌐 Erlang | 📅 2026-07-28.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 194 | 🌐 Erlang | 📅 2026-08-25 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 265 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,452 | 🐛 44 | 🌐 Ruby | 📅 2026-07-20.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 64 | 🌐 Erlang | 📅 2026-08-25.
 
 ## Web Framework Components
 
@@ -238,7 +238,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for accessing third party APIs.*
 
 * [restc](https://github.com/kivra/restclient) ⭐ 95 | 🐛 4 | 🌐 Erlang | 📅 2026-07-22 - An Erlang REST client
-* [oauth2c](https://github.com/kivra/oauth2_client) ⭐ 74 | 🐛 4 | 🌐 Erlang | 📅 2026-07-28 - An Erlang oAuth 2 client (uses restc)
+* [oauth2c](https://github.com/kivra/oauth2_client) ⭐ 74 | 🐛 5 | 🌐 Erlang | 📅 2026-08-25 - An Erlang oAuth 2 client (uses restc)
 * [google-token-erlang](https://github.com/ruel/google-token-erlang) ⭐ 4 | 🐛 0 | 🌐 Erlang | 📅 2018-05-02 - Google ID token verifier for Erlang.
 
 ## Networking
