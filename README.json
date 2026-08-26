@@ -15,7 +15,7 @@
             "last_commit": "2026-03-24T13:57:30Z",
             "owner": "erlware",
             "repo": "relx",
-            "stars": 692
+            "stars": 693
           }
         }
       ],
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 1847706,
             "language": "Erlang",
-            "last_commit": "2026-08-25T16:33:25Z",
+            "last_commit": "2026-08-26T12:53:26Z",
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846
@@ -1143,7 +1143,7 @@
             "archived": false,
             "id": 3715836,
             "language": "Erlang",
-            "last_commit": "2026-07-22T06:40:52Z",
+            "last_commit": "2026-08-26T14:15:41Z",
             "owner": "kivra",
             "repo": "restclient",
             "stars": 95
@@ -1158,7 +1158,7 @@
             "archived": false,
             "id": 5426708,
             "language": "Erlang",
-            "last_commit": "2026-08-25T12:07:39Z",
+            "last_commit": "2026-08-26T09:31:43Z",
             "owner": "kivra",
             "repo": "oauth2_client",
             "stars": 74
@@ -1242,7 +1242,7 @@
             "last_commit": "2021-09-30T05:47:46Z",
             "owner": "gossiperl",
             "repo": "gossiperl",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:56:21.844Z",
+    "last_updated": "2026-08-26T19:24:47.161Z",
     "original_repository": "drobakowski/awesome-erlang",
     "original_repository_id": 21693979,
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",

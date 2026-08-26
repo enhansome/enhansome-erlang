@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,164 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,165 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -52,7 +52,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools for release management.*
 
-* [relx](https://github.com/erlware/relx) ⭐ 692 | 🐛 83 | 🌐 Erlang | 📅 2026-03-24 - A release assembler for Erlang.
+* [relx](https://github.com/erlware/relx) ⭐ 693 | 🐛 83 | 🌐 Erlang | 📅 2026-03-24 - A release assembler for Erlang.
 
 ## Configuration Management
 
@@ -75,8 +75,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,849 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,341 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 194 | 🌐 Erlang | 📅 2026-08-25 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 265 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,452 | 🐛 44 | 🌐 Ruby | 📅 2026-07-20.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 193 | 🌐 Erlang | 📅 2026-08-26 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 265 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,452 | 🐛 43 | 🌐 Ruby | 📅 2026-07-20.
 * [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 64 | 🌐 Erlang | 📅 2026-08-25.
 
 ## Web Framework Components
@@ -237,8 +237,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for accessing third party APIs.*
 
-* [restc](https://github.com/kivra/restclient) ⭐ 95 | 🐛 4 | 🌐 Erlang | 📅 2026-07-22 - An Erlang REST client
-* [oauth2c](https://github.com/kivra/oauth2_client) ⭐ 74 | 🐛 5 | 🌐 Erlang | 📅 2026-08-25 - An Erlang oAuth 2 client (uses restc)
+* [restc](https://github.com/kivra/restclient) ⭐ 95 | 🐛 5 | 🌐 Erlang | 📅 2026-08-26 - An Erlang REST client
+* [oauth2c](https://github.com/kivra/oauth2_client) ⭐ 74 | 🐛 4 | 🌐 Erlang | 📅 2026-08-26 - An Erlang oAuth 2 client (uses restc)
 * [google-token-erlang](https://github.com/ruel/google-token-erlang) ⭐ 4 | 🐛 0 | 🌐 Erlang | 📅 2018-05-02 - Google ID token verifier for Erlang.
 
 ## Networking
@@ -248,7 +248,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [ranch](https://github.com/ninenines/ranch) ⭐ 1,243 | 🐛 5 | 🌐 Erlang | 📅 2026-07-28 - Socket acceptor pool for TCP protocols.
 * [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 227 | 🐛 9 | 🌐 Erlang | 📅 2025-11-05 - A scalable RPC library for Erlang-VM based languages.
 * [barrel\_tcp](https://github.com/benoitc-attic/barrel_tcp) ⭐ 83 | 🐛 1 | 🌐 Erlang | 📅 2015-07-28 - barrel\_tcp is a generic TCP acceptor pool with low latency in Erlang.
-* [gossiperl](https://github.com/gossiperl/gossiperl) ⭐ 47 | 🐛 13 | 🌐 Erlang | 📅 2021-09-30 - Language agnostic gossip middleware and message bus written in Erlang.
+* [gossiperl](https://github.com/gossiperl/gossiperl) ⭐ 48 | 🐛 13 | 🌐 Erlang | 📅 2021-09-30 - Language agnostic gossip middleware and message bus written in Erlang.
 * [nat\_upnp](https://github.com/benoitc/nat_upnp) ⚠️ Archived - Erlang library to map your internal port to an external using UNP IGD.
 * [gen\_tcp\_server](https://github.com/rpt/gen_tcp_server) ⭐ 11 | 🐛 3 | 🌐 Erlang | 📅 2015-04-07 - A library that takes the concept of gen\_server and introduces the same mechanics for operating a TCP server.
 
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
