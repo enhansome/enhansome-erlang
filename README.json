@@ -1143,7 +1143,7 @@
             "archived": false,
             "id": 3715836,
             "language": "Erlang",
-            "last_commit": "2026-08-26T14:15:41Z",
+            "last_commit": "2026-08-27T07:39:05Z",
             "owner": "kivra",
             "repo": "restclient",
             "stars": 95
@@ -1382,9 +1382,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:24:47.161Z",
-    "original_repository": "drobakowski/awesome-erlang",
-    "original_repository_id": 21693979,
+    "last_updated": "2026-08-27T11:36:29.997Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 21693979,
+      "language": null,
+      "last_commit": "2022-11-17T23:40:26Z",
+      "owner": "drobakowski",
+      "repo": "awesome-erlang",
+      "stars": 1708
+    },
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
     "enhanced_repository": "enhansome/enhansome-erlang",
     "enhanced_repository_description": null,
