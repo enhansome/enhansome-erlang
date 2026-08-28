@@ -146,7 +146,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [eflame](https://github.com/proger/eflame) ⭐ 429 | 🐛 6 | 🌐 Perl | 📅 2023-12-13 - A Flame Graph profiler for Erlang.
-* [Concuerror](https://github.com/parapluu/Concuerror) ⭐ 346 | 🐛 17 | 🌐 Erlang | 📅 2026-06-24 - Concuerror is a systematic testing tool for concurrent Erlang programs.
+* [Concuerror](https://github.com/parapluu/Concuerror) ⭐ 347 | 🐛 17 | 🌐 Erlang | 📅 2026-06-24 - Concuerror is a systematic testing tool for concurrent Erlang programs.
 * [geas](https://github.com/crownedgrouse/geas) ⭐ 111 | 🐛 1 | 🌐 Erlang | 📅 2026-06-14 - Geas is a tool that will detect the runnable official Erlang release window for your project, including its dependencies and provides many useful informations.
 
 ## Build Tools
@@ -316,8 +316,8 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,708 | 🐛 23 | 📅 2022-11-17 for details.
+Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,707 | 🐛 23 | 📅 2022-11-17 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

@@ -666,7 +666,7 @@
             "last_commit": "2026-06-24T08:24:52Z",
             "owner": "parapluu",
             "repo": "Concuerror",
-            "stars": 346
+            "stars": 347
           }
         },
         {
@@ -1382,7 +1382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:29.997Z",
+    "last_updated": "2026-08-28T01:36:08.823Z",
     "original_repository_info": {
       "archived": false,
       "id": 21693979,
@@ -1390,7 +1390,7 @@
       "last_commit": "2022-11-17T23:40:26Z",
       "owner": "drobakowski",
       "repo": "awesome-erlang",
-      "stars": 1708
+      "stars": 1707
     },
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
     "enhanced_repository": "enhansome/enhansome-erlang",
