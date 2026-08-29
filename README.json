@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sane, simple release creation for Erlang",
+            "homepage": "http://erlware.github.io/relx",
             "id": 9900098,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-24T13:57:30Z",
+            "open_issues": 83,
             "owner": "erlware",
             "repo": "relx",
-            "stars": 693
+            "stars": 693,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -32,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cache environment variables as Erlang app variables",
+            "homepage": null,
             "id": 10744646,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-09T17:12:23Z",
+            "open_issues": 0,
             "owner": "heroku",
             "repo": "stillir",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -54,12 +64,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang Style Reviewer",
+            "homepage": null,
             "id": 21137327,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T07:19:08Z",
+            "open_issues": 1,
             "owner": "inaka",
             "repo": "elvis",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "elvis",
+              "erlang",
+              "hacktoberfest",
+              "style-checker"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -76,12 +96,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+            "homepage": "https://ninenines.eu",
             "id": 1460612,
             "language": "Erlang",
+            "license": "ISC",
             "last_commit": "2026-08-25T13:15:05Z",
+            "open_issues": 64,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7525
+            "stars": 7525,
+            "topics": [
+              "cowboy",
+              "erlang",
+              "functional",
+              "high-performance",
+              "http",
+              "http-server",
+              "http2",
+              "http2-server",
+              "http3",
+              "http3-server",
+              "https",
+              "production-ready",
+              "rest",
+              "web",
+              "web-framework",
+              "websocket",
+              "websocket-server",
+              "websockets",
+              "webtransport"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -92,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MochiWeb is an Erlang library for building lightweight HTTP servers.",
+            "homepage": null,
             "id": 680799,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T16:16:50Z",
+            "open_issues": 11,
             "owner": "mochi",
             "repo": "mochiweb",
-            "stars": 1890
+            "stars": 1890,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -108,12 +158,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang web MVC, now featuring Comet",
+            "homepage": "http://www.chicagoboss.org/",
             "id": 325927,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2022-01-10T14:03:59Z",
+            "open_issues": 81,
             "owner": "ChicagoBoss",
             "repo": "ChicagoBoss",
-            "stars": 1849
+            "stars": 1849,
+            "topics": [
+              "erlang",
+              "framework",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -124,12 +183,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭕ N2O: Distributed WebSocket Application Server ISO 20922",
+            "homepage": "https://ws.n2o.dev",
             "id": 9104262,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-04T10:30:12Z",
+            "open_issues": 1,
             "owner": "synrc",
             "repo": "n2o",
-            "stars": 1341
+            "stars": 1341,
+            "topics": [
+              "bert",
+              "mqtt",
+              "tcp",
+              "udp",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -140,12 +210,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nitrogen Web Framework for Erlang (now with websockets!)",
+            "homepage": "http://nitrogenproject.com",
             "id": 68626,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-07-26T15:08:39Z",
+            "open_issues": 16,
             "owner": "nitrogen",
             "repo": "nitrogen",
-            "stars": 983
+            "stars": 983,
+            "topics": [
+              "erlang",
+              "javascript",
+              "webframework",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -156,12 +236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zotonic - The Erlang Web Framework & CMS",
+            "homepage": "http://zotonic.com/",
             "id": 1847706,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:44:01Z",
+            "open_issues": 194,
             "owner": "zotonic",
             "repo": "zotonic",
-            "stars": 846
+            "stars": 846,
+            "topics": [
+              "cms",
+              "erlang",
+              "framework",
+              "web",
+              "zotonic"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -172,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a micro-framework for web applications in Erlang",
+            "homepage": null,
             "id": 5063831,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2023-02-16T10:09:03Z",
+            "open_issues": 6,
             "owner": "tsujigiri",
             "repo": "axiom",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -188,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Small and flexible web framework on top of Cowboy",
+            "homepage": null,
             "id": 8135750,
             "language": "Erlang",
+            "license": null,
             "last_commit": "2013-08-01T07:52:02Z",
+            "open_issues": 0,
             "owner": "Kivra-Archive",
             "repo": "giallo",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -210,12 +311,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, standardized interface library to Erlang HTTP Servers.",
+            "homepage": null,
             "id": 202604,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-07-27T00:49:53Z",
+            "open_issues": 17,
             "owner": "nitrogen",
             "repo": "simple_bridge",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "cowboy",
+              "erlang",
+              "inets",
+              "mochiweb",
+              "websocket",
+              "websockets",
+              "yaws"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -226,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Admin interface for Chicago Boss",
+            "homepage": null,
             "id": 2020241,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-06-10T15:19:22Z",
+            "open_issues": 16,
             "owner": "ChicagoBoss",
             "repo": "cb_admin",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -242,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Session Management for Giallo Web Framework",
+            "homepage": null,
             "id": 8204800,
             "language": "Erlang",
+            "license": null,
             "last_commit": "2014-01-15T10:32:13Z",
+            "open_issues": 0,
             "owner": "Kivra-Archive",
             "repo": "giallo_session",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -258,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template for implementing a Websocket controller for ChicagoBoss",
+            "homepage": null,
             "id": 7786973,
             "language": "Erlang",
+            "license": null,
             "last_commit": "2013-01-24T04:41:51Z",
+            "open_issues": 0,
             "owner": "dkuhlman",
             "repo": "cb_websocket_controller",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -280,12 +409,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple HTTP client in Erlang",
+            "homepage": null,
             "id": 4864481,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T05:53:49Z",
+            "open_issues": 15,
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1417
+            "stars": 1417,
+            "topics": [
+              "client",
+              "erlang",
+              "http"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -296,12 +434,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",
+            "homepage": null,
             "id": 12277346,
             "language": "Erlang",
+            "license": "ISC",
             "last_commit": "2026-07-28T08:40:44Z",
+            "open_issues": 24,
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 949
+            "stars": 949,
+            "topics": [
+              "cowboy",
+              "erlang",
+              "functional",
+              "high-performance",
+              "http",
+              "http-client",
+              "http2",
+              "http2-client",
+              "http3-client",
+              "https",
+              "production-ready",
+              "rest",
+              "web",
+              "websocket",
+              "websocket-client",
+              "websockets",
+              "webtransport"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -312,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang HTTP client",
+            "homepage": null,
             "id": 231268,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-01T04:14:21Z",
+            "open_issues": 19,
             "owner": "cmullaparthi",
             "repo": "ibrowse",
-            "stars": 518
+            "stars": 518,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -328,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, reliable, efficient streaming for Cowboy.",
+            "homepage": "http://ninenines.eu",
             "id": 2470304,
             "language": "Erlang",
+            "license": "ISC",
             "last_commit": "2018-12-11T13:40:55Z",
+            "open_issues": 0,
             "owner": "ninenines",
             "repo": "bullet",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -344,12 +515,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For the times you need more than just a gun.",
+            "homepage": "http://inaka.github.io/shotgun/",
             "id": 21953558,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T08:55:38Z",
+            "open_issues": 17,
             "owner": "inaka",
             "repo": "shotgun",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "erlang",
+              "hacktoberfest",
+              "shotgun",
+              "sse"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -360,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lhttpc is a lightweight HTTP/1.1 client implemented in Erlang.",
+            "homepage": null,
             "id": 1410878,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-29T11:22:44Z",
+            "open_issues": 20,
             "owner": "esl",
             "repo": "lhttpc",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -382,12 +568,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PropEr: a QuickCheck-inspired property-based testing tool for Erlang",
+            "homepage": "http://proper-testing.github.io",
             "id": 697866,
             "language": "Erlang",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-24T06:05:22Z",
+            "open_issues": 50,
             "owner": "proper-testing",
             "repo": "proper",
-            "stars": 918
+            "stars": 918,
+            "topics": [
+              "codecov-badge",
+              "erlang",
+              "erlang-versions-badge",
+              "release-badge"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -398,12 +594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic tracing tests and utilities for Erlang/OTP",
+            "homepage": null,
             "id": 12458826,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2014-07-31T09:00:52Z",
+            "open_issues": 0,
             "owner": "esl",
             "repo": "tracerl",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -420,12 +621,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED] Heroku log router",
+            "homepage": null,
             "id": 1165646,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-14T10:25:12Z",
+            "open_issues": 0,
             "owner": "heroku",
             "repo": "logplex",
-            "stars": 981
+            "stars": 981,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -436,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A logging framework for Erlang/OTP",
+            "homepage": "basho.com",
             "id": 73742733,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-07T13:50:10Z",
+            "open_issues": 0,
             "owner": "basho",
             "repo": "lager",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -452,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AMQP RabbitMQ Lager backend",
+            "homepage": null,
             "id": 2797996,
             "language": "Erlang",
+            "license": null,
             "last_commit": "2012-04-13T20:46:30Z",
+            "open_issues": 2,
             "owner": "jbrisbin",
             "repo": "lager_amqp_backend",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -468,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Loggly backend for lager",
+            "homepage": null,
             "id": 5626136,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2016-10-26T22:18:45Z",
+            "open_issues": 3,
             "owner": "Kivra-Archive",
             "repo": "lager_loggly",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -484,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMTP backend for lager",
+            "homepage": null,
             "id": 4432501,
             "language": "Erlang",
+            "license": "GPL-3.0",
             "last_commit": "2012-11-08T23:01:07Z",
+            "open_issues": 0,
             "owner": "blinkov",
             "repo": "lager_smtp",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -500,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HipChat backend for lager",
+            "homepage": null,
             "id": 8062053,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2017-01-08T22:26:34Z",
+            "open_issues": 3,
             "owner": "synlay",
             "repo": "lager_hipchat",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -516,12 +747,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Slack backend for lager",
+            "homepage": null,
             "id": 125777878,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2018-05-30T16:06:54Z",
+            "open_issues": 0,
             "owner": "furmanOFF",
             "repo": "lager_slack",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "erlang",
+              "lager",
+              "slack"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -538,12 +778,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose Erlang Events and Metrics",
+            "homepage": null,
             "id": 1493089,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-07T02:47:54Z",
+            "open_issues": 14,
             "owner": "boundary",
             "repo": "folsom",
-            "stars": 583
+            "stars": 583,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -554,12 +799,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic measurement objects and probe behavior",
+            "homepage": null,
             "id": 11879291,
             "language": "Erlang",
+            "license": "MPL-2.0",
             "last_commit": "2019-06-14T09:40:23Z",
+            "open_issues": 16,
             "owner": "Feuerlabs",
             "repo": "exometer",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "erlang",
+              "exometer"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -570,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang performance and debugging tools",
+            "homepage": null,
             "id": 607990,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2018-07-06T13:31:54Z",
+            "open_issues": 5,
             "owner": "massemanet",
             "repo": "eper",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -586,12 +844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A top-like tool for monitoring an Erlang node",
+            "homepage": "http://github.com/mazenharake/entop",
             "id": 840788,
             "language": "Erlang",
+            "license": "BSD-2-Clause",
             "last_commit": "2019-05-29T22:12:23Z",
+            "open_issues": 3,
             "owner": "mazenharake",
             "repo": "entop",
-            "stars": 267
+            "stars": 267,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -602,12 +865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tiny Erlang app to generate information on the Erlang VM",
+            "homepage": null,
             "id": 3563867,
             "language": "Erlang",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-09-11T19:57:34Z",
+            "open_issues": 1,
             "owner": "ferd",
             "repo": "vmstats",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -618,12 +886,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-Performance Erlang StatsD Client",
+            "homepage": null,
             "id": 2342839,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-06-05T13:26:57Z",
+            "open_issues": 2,
             "owner": "lpgauth",
             "repo": "statsderl",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "client",
+              "erlang",
+              "high-performance",
+              "statsd"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -640,12 +918,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker Image for Erlang",
+            "homepage": null,
             "id": 41678806,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-11-23T21:45:24Z",
+            "open_issues": 1,
             "owner": "synlay",
             "repo": "docker-erlang",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "docker",
+              "docker-hub",
+              "docker-image",
+              "erlang",
+              "otp",
+              "quay"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -662,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "distributed system stress and load testing tool",
+            "homepage": null,
             "id": 43510515,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2019-08-24T15:10:07Z",
+            "open_issues": 2,
             "owner": "fogfish",
             "repo": "typhoon",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -684,12 +979,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flame Graph profiler for Erlang",
+            "homepage": null,
             "id": 12701335,
             "language": "Perl",
+            "license": "ISC",
             "last_commit": "2023-12-13T14:59:28Z",
+            "open_issues": 6,
             "owner": "proger",
             "repo": "eflame",
-            "stars": 429
+            "stars": 429,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -700,12 +1000,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Concuerror is a stateless model checking tool for Erlang programs.",
+            "homepage": "http://parapluu.github.io/Concuerror",
             "id": 18437700,
             "language": "Erlang",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-24T08:24:52Z",
+            "open_issues": 17,
             "owner": "parapluu",
             "repo": "Concuerror",
-            "stars": 347
+            "stars": 347,
+            "topics": [
+              "automatic",
+              "codecov",
+              "codecov-badge",
+              "concuerror",
+              "concurrent-erlang-programs",
+              "concurrent-programming",
+              "debugging",
+              "erlang",
+              "erlang-programs",
+              "erlang-versions-badge",
+              "model-checker",
+              "model-checking",
+              "otp",
+              "stateless-model-checking",
+              "systematic-testing",
+              "testing",
+              "tool",
+              "travis-badge",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -716,12 +1041,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guess Erlang Application Scattering",
+            "homepage": null,
             "id": 33823779,
             "language": "Erlang",
+            "license": "ISC",
             "last_commit": "2026-06-14T14:58:18Z",
+            "open_issues": 1,
             "owner": "crownedgrouse",
             "repo": "geas",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "beam-files",
+              "erlang"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -738,12 +1071,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang build tool that makes it easy to compile and test Erlang applications and releases.",
+            "homepage": "http://www.rebar3.org",
             "id": 26610130,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:46:03Z",
+            "open_issues": 228,
             "owner": "erlang",
             "repo": "rebar3",
-            "stars": 1818
+            "stars": 1818,
+            "topics": [
+              "build",
+              "compile",
+              "dependencies",
+              "erlang",
+              "hacktoberfest",
+              "packages",
+              "releases",
+              "template",
+              "test"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -754,12 +1102,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deprecated Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. We encourage you to move to https://github.com/erlang/rebar3.",
+            "homepage": null,
             "id": 6393199,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2018-02-01T09:34:05Z",
+            "open_issues": 2,
             "owner": "rebar",
             "repo": "rebar",
-            "stars": 930
+            "stars": 930,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -770,12 +1123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On-the-fly recompiling and reloading in Erlang. Code without friction.",
+            "homepage": null,
             "id": 727813,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2025-06-30T16:25:36Z",
+            "open_issues": 17,
             "owner": "rustyio",
             "repo": "sync",
-            "stars": 761
+            "stars": 761,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -792,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GeoCouch, a spatial index for CouchDB",
+            "homepage": null,
             "id": 1433284,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-10T12:00:03Z",
+            "open_issues": 3,
             "owner": "couchbase",
             "repo": "geocouch",
-            "stars": 516
+            "stars": 516,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -808,12 +1171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Erlang implementation of the R*-tree spacial data structure",
+            "homepage": null,
             "id": 6730369,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-11T00:56:37Z",
+            "open_issues": 0,
             "owner": "armon",
             "repo": "erl-rstar",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -824,12 +1192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Erlang network service for manipulating geographic data",
+            "homepage": null,
             "id": 6929880,
             "language": "Erlang",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-07-22T23:05:44Z",
+            "open_issues": 0,
             "owner": "armon",
             "repo": "teles",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -846,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang term explorer. Pastebin type app which displays terms of any complexity straight from your erlang shell in web browser. No external deps (inets only).",
+            "homepage": null,
             "id": 24227329,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2014-10-08T14:37:39Z",
+            "open_issues": 1,
             "owner": "kvakvs",
             "repo": "tx",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -868,12 +1246,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hunky Erlang worker pool factory",
+            "homepage": "http://github.com/devinus/poolboy",
             "id": 1046213,
             "language": "Erlang",
+            "license": "ISC",
             "last_commit": "2023-04-18T06:08:28Z",
+            "open_issues": 45,
             "owner": "devinus",
             "repo": "poolboy",
-            "stars": 1599
+            "stars": 1599,
+            "topics": [
+              "erlang",
+              "pool",
+              "worker-pool"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -890,12 +1277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang date, time, and timezone management: formatting, conversion, and date arithmetic",
+            "homepage": "http://sigma-star.com/blog/post/qdate",
             "id": 7598128,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-07-26T05:16:16Z",
+            "open_issues": 10,
             "owner": "choptastic",
             "repo": "qdate",
-            "stars": 248
+            "stars": 248,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -906,12 +1298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang library for conversion from one local time to another ",
+            "homepage": null,
             "id": 856437,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2017-02-04T14:04:23Z",
+            "open_issues": 13,
             "owner": "dmitryme",
             "repo": "erlang_localtime",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -928,12 +1325,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang PostgreSQL client library.",
+            "homepage": null,
             "id": 16806661,
             "language": "Erlang",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-16T14:49:02Z",
+            "open_issues": 47,
             "owner": "epgsql",
             "repo": "epgsql",
-            "stars": 446
+            "stars": 446,
+            "topics": [
+              "erlang",
+              "postgres",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -944,12 +1350,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MySQL/OTP – MySQL and MariaDB client for Erlang/OTP",
+            "homepage": "https://mysql-otp.github.io/mysql-otp/",
             "id": 25876565,
             "language": "Erlang",
+            "license": "LGPL-3.0",
             "last_commit": "2025-06-10T10:02:30Z",
+            "open_issues": 9,
             "owner": "mysql-otp",
             "repo": "mysql-otp",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "erlang",
+              "mariadb",
+              "mysql"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -960,12 +1375,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BossDB: a sharded, caching, pooling, evented ORM for Erlang",
+            "homepage": null,
             "id": 3354440,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-05T12:27:11Z",
+            "open_issues": 61,
             "owner": "ErlyORM",
             "repo": "boss_db",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "erlang",
+              "orm"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -976,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PostgreSQL migrations for Erlang",
+            "homepage": null,
             "id": 30691700,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2023-01-20T21:50:38Z",
+            "open_issues": 1,
             "owner": "artemeff",
             "repo": "pgsql_migration",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -998,12 +1426,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang Priority Queues",
+            "homepage": null,
             "id": 2739018,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2023-10-26T18:50:55Z",
+            "open_issues": 0,
             "owner": "okeuday",
             "repo": "pqueue",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "data-structures",
+              "erlang"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1014,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TinyMQ - a diminutive, in-memory message queue",
+            "homepage": null,
             "id": 5602305,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2021-01-16T16:07:29Z",
+            "open_issues": 3,
             "owner": "ChicagoBoss",
             "repo": "tinymq",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1030,12 +1471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Fault Tolerant Queue library",
+            "homepage": null,
             "id": 29360476,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2015-02-14T00:40:19Z",
+            "open_issues": 2,
             "owner": "darach",
             "repo": "dq",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1046,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny simple blocking queue in erlang",
+            "homepage": null,
             "id": 28655299,
             "language": "Erlang",
+            "license": null,
             "last_commit": "2015-01-08T00:04:38Z",
+            "open_issues": 0,
             "owner": "rgrinberg",
             "repo": "ebqueue",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -1068,12 +1519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON NIFs for Erlang",
+            "homepage": null,
             "id": 1564769,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-01T00:19:34Z",
+            "open_issues": 0,
             "owner": "davisp",
             "repo": "jiffy",
-            "stars": 880
+            "stars": 880,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1084,12 +1540,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an erlang application for consuming, producing and manipulating json. inspired by yajl",
+            "homepage": null,
             "id": 684090,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2024-06-26T15:39:01Z",
+            "open_issues": 25,
             "owner": "talentdeficit",
             "repo": "jsx",
-            "stars": 696
+            "stars": 696,
+            "topics": [
+              "erlang",
+              "json"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1100,12 +1564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang with SQL or not",
+            "homepage": null,
             "id": 28971895,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2024-01-02T21:03:39Z",
+            "open_issues": 3,
             "owner": "artemeff",
             "repo": "eql",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1116,12 +1585,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile erlang record definitions into modules to convert them to/from json easily.",
+            "homepage": null,
             "id": 5825119,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-02T18:48:46Z",
+            "open_issues": 3,
             "owner": "lordnull",
             "repo": "rec2json",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "erlang",
+              "json",
+              "json-converter"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1132,12 +1610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhanced query string parser for Erlang",
+            "homepage": null,
             "id": 23400328,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2016-10-30T09:57:36Z",
+            "open_issues": 0,
             "owner": "artemeff",
             "repo": "qsp",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1148,12 +1631,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jiffy and JSX wrapper which returns a more standard Erlang map.",
+            "homepage": null,
             "id": 97380731,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-24T13:57:21Z",
+            "open_issues": 0,
             "owner": "expelledboy",
             "repo": "miffy",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "jiffy",
+              "json",
+              "jsx",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -1170,12 +1663,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Erlang REST framework",
+            "homepage": "https://sinasamavati.com/leptus",
             "id": 12931626,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2021-05-13T15:13:36Z",
+            "open_issues": 5,
             "owner": "sinasamavati",
             "repo": "leptus",
-            "stars": 346
+            "stars": 346,
+            "topics": [
+              "erlang",
+              "rest",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1186,12 +1688,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Erlang REST framework",
+            "homepage": null,
             "id": 80791142,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2017-11-19T23:35:35Z",
+            "open_issues": 1,
             "owner": "fbeline",
             "repo": "rooster",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "erlang",
+              "rest-api"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -1208,12 +1718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang Rest Client",
+            "homepage": null,
             "id": 3715836,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:39:05Z",
+            "open_issues": 4,
             "owner": "kivra",
             "repo": "restclient",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1224,12 +1739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang OAuth2 Client",
+            "homepage": null,
             "id": 5426708,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2026-08-26T09:31:43Z",
+            "open_issues": 4,
             "owner": "kivra",
             "repo": "oauth2_client",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1240,12 +1760,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google ID token verifier for Erlang",
+            "homepage": null,
             "id": 70716331,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2018-05-02T10:26:32Z",
+            "open_issues": 0,
             "owner": "ruel",
             "repo": "google-token-erlang",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "erlang",
+              "google-authentication",
+              "google-id-token",
+              "google-token",
+              "jwt-token",
+              "otp"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -1262,12 +1794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Socket acceptor pool for TCP protocols.",
+            "homepage": null,
             "id": 3944995,
             "language": "Erlang",
+            "license": "ISC",
             "last_commit": "2026-07-28T08:16:21Z",
+            "open_issues": 5,
             "owner": "ninenines",
             "repo": "ranch",
-            "stars": 1244
+            "stars": 1244,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1278,12 +1815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable RPC library for Erlang-VM based languages",
+            "homepage": null,
             "id": 36317559,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-05T06:26:50Z",
+            "open_issues": 9,
             "owner": "priestjim",
             "repo": "gen_rpc",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1294,12 +1836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "barrel_tcp  is a generic TCP acceptor pool with low latency in Erlang.",
+            "homepage": null,
             "id": 11266342,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2015-07-28T06:09:49Z",
+            "open_issues": 1,
             "owner": "benoitc-attic",
             "repo": "barrel_tcp",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1310,12 +1857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gossip middleware in Erlang",
+            "homepage": "http://gossiperl.com",
             "id": 27284923,
             "language": "Erlang",
+            "license": "MIT",
             "last_commit": "2021-09-30T05:47:46Z",
+            "open_issues": 13,
             "owner": "gossiperl",
             "repo": "gossiperl",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1326,12 +1878,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Erlang library to map your internal port to an external using UNP IGD ",
+            "homepage": null,
             "id": 11099158,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2019-07-03T03:49:11Z",
+            "open_issues": 2,
             "owner": "benoitc",
             "repo": "nat_upnp",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1342,12 +1899,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic TCP Server for Erlang applications",
+            "homepage": null,
             "id": 4520430,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2015-04-07T13:26:09Z",
+            "open_issues": 3,
             "owner": "rpt",
             "repo": "gen_tcp_server",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "erlang",
+              "tcp",
+              "tcp-server"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -1364,12 +1930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convergent replicated datatypes in Erlang",
+            "homepage": null,
             "id": 2841977,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T13:01:29Z",
+            "open_issues": 10,
             "owner": "basho",
             "repo": "riak_dt",
-            "stars": 357
+            "stars": 357,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1380,12 +1951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang state \"monad\" with merge/conflict-resolution capabilities. Useful for Riak.",
+            "homepage": null,
             "id": 1651949,
             "language": "Erlang",
+            "license": "NOASSERTION",
             "last_commit": "2015-02-03T18:48:37Z",
+            "open_issues": 2,
             "owner": "mochi",
             "repo": "statebox",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1396,12 +1972,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pure functional and generic programming for Erlang",
+            "homepage": null,
             "id": 10343818,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-07T16:35:25Z",
+            "open_issues": 11,
             "owner": "fogfish",
             "repo": "datum",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "algebraic-data-types",
+              "category-pattern",
+              "data-structures",
+              "erlang",
+              "foldable",
+              "generic-programming",
+              "lenses",
+              "monads",
+              "streams",
+              "traversable"
+            ]
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1412,12 +2004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlando",
+            "homepage": "http://hg.rabbitmq.com/erlando/",
             "id": 14798015,
             "language": "Erlang",
+            "license": null,
             "last_commit": "2025-09-17T08:33:41Z",
+            "open_issues": 0,
             "owner": "travelping",
             "repo": "erlando",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -1434,12 +2031,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hacks to add shell history to Erlang's shell",
+            "homepage": null,
             "id": 2819730,
             "language": "Erlang",
+            "license": null,
             "last_commit": "2018-03-02T07:08:07Z",
+            "open_issues": 3,
             "owner": "ferd",
             "repo": "erlang-history",
-            "stars": 495
+            "stars": 495,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         },
@@ -1450,12 +2052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Erlang UNIX daemon wrapper",
+            "homepage": null,
             "id": 4439219,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2016-05-16T04:00:45Z",
+            "open_issues": 0,
             "owner": "ShoreTel-Inc",
             "repo": "erld",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
         }
@@ -1464,15 +2071,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:05:45.003Z",
+    "last_updated": "2026-08-29T04:27:59.265Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
+      "homepage": null,
       "id": 21693979,
       "language": null,
+      "license": null,
       "last_commit": "2022-11-17T23:40:26Z",
+      "open_issues": 23,
       "owner": "drobakowski",
       "repo": "awesome-erlang",
-      "stars": 1707
+      "stars": 1707,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "erlang",
+        "erlang-library",
+        "lists"
+      ]
     },
     "original_repository_sha": "e7bd186be08ca8ad4c9803cae13d643510d7c2e2",
     "enhanced_repository": "enhansome/enhansome-erlang",
