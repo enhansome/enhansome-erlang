@@ -153,7 +153,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Project build and automation tools.*
 
-* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,818 | 🐛 228 | 🌐 Erlang | 📅 2026-08-24 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
+* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,818 | 🐛 230 | 🌐 Erlang | 📅 2026-08-30 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 * [sync](https://github.com/rustyio/sync) ⭐ 761 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - On-the-fly recompiling for Erlang.
 
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

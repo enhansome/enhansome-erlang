@@ -1076,8 +1076,8 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T15:46:03Z",
-            "open_issues": 228,
+            "last_commit": "2026-08-30T18:45:16Z",
+            "open_issues": 230,
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1818,
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:54:46.619Z",
+    "last_updated": "2026-08-30T19:57:47.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
