@@ -16,7 +16,7 @@
             "language": "Erlang",
             "license": "Apache-2.0",
             "last_commit": "2026-03-24T13:57:30Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "erlware",
             "repo": "relx",
             "stars": 693,
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:47:06Z",
-            "open_issues": 196,
+            "last_commit": "2026-09-05T14:45:01Z",
+            "open_issues": 197,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846,
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:47:06.958Z",
+    "last_updated": "2026-09-05T19:17:19.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
@@ -2083,7 +2083,7 @@
       "open_issues": 23,
       "owner": "drobakowski",
       "repo": "awesome-erlang",
-      "stars": 1707,
+      "stars": 1708,
       "topics": [
         "awesome",
         "awesome-list",
