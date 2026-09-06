@@ -105,7 +105,7 @@
             "open_issues": 65,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7526,
+            "stars": 7527,
             "topics": [
               "cowboy",
               "erlang",
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T14:45:01Z",
-            "open_issues": 197,
+            "last_commit": "2026-09-06T10:44:50Z",
+            "open_issues": 198,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 846,
@@ -1076,8 +1076,8 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T13:22:56Z",
-            "open_issues": 227,
+            "last_commit": "2026-09-06T18:44:36Z",
+            "open_issues": 230,
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1818,
@@ -1180,7 +1180,7 @@
             "open_issues": 0,
             "owner": "armon",
             "repo": "erl-rstar",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:17:19.842Z",
+    "last_updated": "2026-09-06T19:24:26.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",

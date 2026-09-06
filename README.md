@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,166 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,165 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -70,14 +70,14 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,526 | 🐛 65 | 🌐 Erlang | 📅 2026-08-25 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,527 | 🐛 65 | 🌐 Erlang | 📅 2026-08-25 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,891 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,849 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,341 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 197 | 🌐 Erlang | 📅 2026-09-05 - High speed, real-time web framework and content management system.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 846 | 🐛 198 | 🌐 Erlang | 📅 2026-09-06 - High speed, real-time web framework and content management system.
 * [Axiom](https://github.com/tsujigiri/axiom) ⭐ 265 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,449 | 🐛 45 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,526 | 🐛 65 | 🌐 Erlang | 📅 2026-08-25.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,527 | 🐛 65 | 🌐 Erlang | 📅 2026-08-25.
 
 ## Web Framework Components
 
@@ -153,7 +153,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Project build and automation tools.*
 
-* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,818 | 🐛 227 | 🌐 Erlang | 📅 2026-08-31 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
+* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,818 | 🐛 230 | 🌐 Erlang | 📅 2026-09-06 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 * [sync](https://github.com/rustyio/sync) ⭐ 761 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - On-the-fly recompiling for Erlang.
 
@@ -162,7 +162,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [GeoCouch](https://github.com/couchbase/geocouch) ⭐ 515 | 🐛 3 | 🌐 Erlang | 📅 2021-11-10 - A spatial extension for Couchbase and Apache CouchDB.
-* [erl-rstar](https://github.com/armon/erl-rstar) ⭐ 58 | 🐛 0 | 🌐 Erlang | 📅 2018-07-11 - An Erlang implementation of the R\*-tree spacial data structure.
+* [erl-rstar](https://github.com/armon/erl-rstar) ⭐ 59 | 🐛 0 | 🌐 Erlang | 📅 2018-07-11 - An Erlang implementation of the R\*-tree spacial data structure.
 * [Teles](https://github.com/armon/teles) ⭐ 15 | 🐛 0 | 🌐 Erlang | 📅 2016-07-22 - An Erlang network service for manipulating geographic data.
 
 ## Debugging
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
