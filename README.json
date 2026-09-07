@@ -101,7 +101,7 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-08-25T13:15:05Z",
+            "last_commit": "2026-09-07T14:36:26Z",
             "open_issues": 65,
             "owner": "ninenines",
             "repo": "cowboy",
@@ -241,11 +241,11 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T10:44:50Z",
-            "open_issues": 198,
+            "last_commit": "2026-09-07T13:29:32Z",
+            "open_issues": 196,
             "owner": "zotonic",
             "repo": "zotonic",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "cms",
               "erlang",
@@ -439,7 +439,7 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-07-28T08:40:44Z",
+            "last_commit": "2026-09-07T14:30:31Z",
             "open_issues": 24,
             "owner": "ninenines",
             "repo": "gun",
@@ -1009,7 +1009,7 @@
             "open_issues": 17,
             "owner": "parapluu",
             "repo": "Concuerror",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "automatic",
               "codecov",
@@ -1799,7 +1799,7 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-07-28T08:16:21Z",
+            "last_commit": "2026-09-07T10:34:32Z",
             "open_issues": 5,
             "owner": "ninenines",
             "repo": "ranch",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:24:26.169Z",
+    "last_updated": "2026-09-07T20:42:32.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
@@ -2083,7 +2083,7 @@
       "open_issues": 23,
       "owner": "drobakowski",
       "repo": "awesome-erlang",
-      "stars": 1708,
+      "stars": 1709,
       "topics": [
         "awesome",
         "awesome-list",
