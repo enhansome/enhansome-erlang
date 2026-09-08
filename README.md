@@ -70,20 +70,20 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,527 | 🐛 65 | 🌐 Erlang | 📅 2026-09-07 - A simple HTTP server.
-* [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,891 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - An Erlang library for building lightweight HTTP servers.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,527 | 🐛 65 | 🌐 Erlang | 📅 2026-09-08 - A simple HTTP server.
+* [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,890 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,849 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
-* [N2O](https://github.com/synrc/n2o) ⭐ 1,341 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
-* [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 983 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 196 | 🌐 Erlang | 📅 2026-09-07 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 265 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,449 | 🐛 45 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,527 | 🐛 65 | 🌐 Erlang | 📅 2026-09-07.
+* [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
+* [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 197 | 🌐 Erlang | 📅 2026-09-08 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,449 | 🐛 45 | 🌐 Ruby | 📅 2026-07-20.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,527 | 🐛 65 | 🌐 Erlang | 📅 2026-09-08.
 
 ## Web Framework Components
 
 *Standalone component from web development frameworks.*
 
-* [simple\_bridge](https://github.com/nitrogen/simple_bridge) ⭐ 114 | 🐛 17 | 🌐 Erlang | 📅 2026-07-27 - An abstraction layer providing a unified interface to popular Erlang web servers (Cowboy, Inets, Mochiweb, Webmachine, and Yaws).
+* [simple\_bridge](https://github.com/nitrogen/simple_bridge) ⭐ 113 | 🐛 17 | 🌐 Erlang | 📅 2026-07-27 - An abstraction layer providing a unified interface to popular Erlang web servers (Cowboy, Inets, Mochiweb, Webmachine, and Yaws).
 * [cb\_admin](https://github.com/ChicagoBoss/cb_admin) ⭐ 66 | 🐛 16 | 🌐 CSS | 📅 2016-06-10 - An admin interface for Chicago Boss.
 * [giallo\_session](https://github.com/kivra/giallo_session) ⚠️ Archived - A session management library for the Giallo web framework.
 * [cb\_websocket\_controller](https://github.com/dkuhlman/cb_websocket_controller) ⭐ 8 | 🐛 0 | 🌐 Erlang | 📅 2013-01-24 - A template for implementing a Websocket controller for ChicagoBoss.
@@ -93,7 +93,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [hackney](https://github.com/benoitc/hackney) ⭐ 1,417 | 🐛 14 | 🌐 Erlang | 📅 2026-09-03 - Simple HTTP client in Erlang.
-* [gun](https://github.com/ninenines/gun) ⭐ 949 | 🐛 24 | 🌐 Erlang | 📅 2026-09-07 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
+* [gun](https://github.com/ninenines/gun) ⭐ 949 | 🐛 24 | 🌐 Erlang | 📅 2026-09-08 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 518 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP client.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - Simple, reliable, efficient streaming for Cowboy.
 * [shotgun](https://github.com/inaka/shotgun) ⭐ 168 | 🐛 17 | 🌐 Erlang | 📅 2026-06-17 - For the times you need more than just a gun.
@@ -124,7 +124,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [folsom](https://github.com/boundary/folsom) ⭐ 583 | 🐛 14 | 🌐 Erlang | 📅 2018-11-07 - An Erlang based metrics system inspired by Coda Hale's [metrics](https://github.com/codahale/metrics) ⚠️ Archived.
 * [Exometer](https://github.com/Feuerlabs/exometer) ⭐ 528 | 🐛 16 | 🌐 Erlang | 📅 2019-06-14 - An Erlang instrumentation package.
-* [eper](https://github.com/massemanet/eper) ⭐ 440 | 🐛 5 | 🌐 Erlang | 📅 2018-07-06 - A loose collection of Erlang Performance related tools.
+* [eper](https://github.com/massemanet/eper) ⭐ 439 | 🐛 5 | 🌐 Erlang | 📅 2018-07-06 - A loose collection of Erlang Performance related tools.
 * [entop](https://github.com/mazenharake/entop) ⭐ 267 | 🐛 3 | 🌐 Erlang | 📅 2019-05-29 - A top-like Erlang node monitoring tool.
 * [vmstats](https://github.com/ferd/vmstats) ⭐ 256 | 🐛 1 | 🌐 Erlang | 📅 2025-09-11 - Tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs.
 * [statsderl](https://github.com/lpgauth/statsderl) ⭐ 100 | 🐛 2 | 🌐 Erlang | 📅 2026-06-05 - A statsd Erlang client.
@@ -145,7 +145,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
-* [eflame](https://github.com/proger/eflame) ⭐ 429 | 🐛 6 | 🌐 Perl | 📅 2023-12-13 - A Flame Graph profiler for Erlang.
+* [eflame](https://github.com/proger/eflame) ⭐ 428 | 🐛 6 | 🌐 Perl | 📅 2023-12-13 - A Flame Graph profiler for Erlang.
 * [Concuerror](https://github.com/parapluu/Concuerror) ⭐ 348 | 🐛 17 | 🌐 Erlang | 📅 2026-06-24 - Concuerror is a systematic testing tool for concurrent Erlang programs.
 * [geas](https://github.com/crownedgrouse/geas) ⭐ 111 | 🐛 1 | 🌐 Erlang | 📅 2026-06-14 - Geas is a tool that will detect the runnable official Erlang release window for your project, including its dependencies and provides many useful informations.
 
@@ -153,9 +153,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Project build and automation tools.*
 
-* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,818 | 🐛 230 | 🌐 Erlang | 📅 2026-09-06 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
+* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,817 | 🐛 231 | 🌐 Erlang | 📅 2026-09-06 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
-* [sync](https://github.com/rustyio/sync) ⭐ 761 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - On-the-fly recompiling for Erlang.
+* [sync](https://github.com/rustyio/sync) ⭐ 760 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - On-the-fly recompiling for Erlang.
 
 ## Geolocation
 
@@ -169,13 +169,13 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools for debugging code and applications.*
 
-* [tx](https://github.com/kvakvs/tx) ⭐ 83 | 🐛 1 | 🌐 CSS | 📅 2014-10-08 - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
+* [tx](https://github.com/kvakvs/tx) ⭐ 82 | 🐛 1 | 🌐 CSS | 📅 2014-10-08 - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
 
 ## Actors
 
 *Libraries and tools for working with actors and such.*
 
-* [poolboy](https://github.com/devinus/poolboy) ⭐ 1,599 | 🐛 45 | 🌐 Erlang | 📅 2023-04-18 - A hunky Erlang worker pool factory.
+* [poolboy](https://github.com/devinus/poolboy) ⭐ 1,598 | 🐛 45 | 🌐 Erlang | 📅 2023-04-18 - A hunky Erlang worker pool factory.
 
 ## Date and Time
 
@@ -224,7 +224,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and web tools for developing REST-ful APIs.*
 
-* [leptus](https://github.com/s1n4/leptus) ⭐ 346 | 🐛 5 | 🌐 Erlang | 📅 2021-05-13 - Leptus is an Erlang REST framework that runs on top of cowboy.
+* [leptus](https://github.com/s1n4/leptus) ⭐ 345 | 🐛 5 | 🌐 Erlang | 📅 2021-05-13 - Leptus is an Erlang REST framework that runs on top of cowboy.
 * [rooster](https://github.com/FelipeBB/rooster) ⚠️ Archived - rooster is a lightweight REST framework that runs on top of mochiweb.
 
 ## Caching
@@ -245,7 +245,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools for using network related stuff.*
 
-* [ranch](https://github.com/ninenines/ranch) ⭐ 1,244 | 🐛 5 | 🌐 Erlang | 📅 2026-09-07 - Socket acceptor pool for TCP protocols.
+* [ranch](https://github.com/ninenines/ranch) ⭐ 1,243 | 🐛 5 | 🌐 Erlang | 📅 2026-09-08 - Socket acceptor pool for TCP protocols.
 * [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 227 | 🐛 9 | 🌐 Erlang | 📅 2025-11-05 - A scalable RPC library for Erlang-VM based languages.
 * [barrel\_tcp](https://github.com/benoitc-attic/barrel_tcp) ⭐ 83 | 🐛 1 | 🌐 Erlang | 📅 2015-07-28 - barrel\_tcp is a generic TCP acceptor pool with low latency in Erlang.
 * [gossiperl](https://github.com/gossiperl/gossiperl) ⭐ 48 | 🐛 13 | 🌐 Erlang | 📅 2021-09-30 - Language agnostic gossip middleware and message bus written in Erlang.
@@ -264,7 +264,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and implementations of algorithms and datastructures.*
 
 * [riak\_dt](https://github.com/basho/riak_dt) ⭐ 357 | 🐛 10 | 🌐 Erlang | 📅 2026-08-14 - Erlang library of state based CRDTs.
-* [statebox](https://github.com/mochi/statebox) ⭐ 256 | 🐛 2 | 🌐 Erlang | 📅 2015-02-03 - Erlang state "monad" with merge/conflict-resolution capabilities.
+* [statebox](https://github.com/mochi/statebox) ⭐ 255 | 🐛 2 | 🌐 Erlang | 📅 2015-02-03 - Erlang state "monad" with merge/conflict-resolution capabilities.
 * [datum](https://github.com/fogfish/datum) ⭐ 127 | 🐛 11 | 🌐 Erlang | 📅 2025-07-07 - A pure functional and generic programming for Erlang
 * [erlando](https://github.com/travelping/erlando) ⭐ 1 | 🐛 0 | 🌐 Erlang | 📅 2025-09-17 - A set of syntax extensions like currying and monads for Erlang.
 
@@ -287,7 +287,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 *Useful web and Erlang-related websites and newsletters.*
 
-* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) ⭐ 1,156 | 🐛 0 | 📅 2021-07-31 - All about erlang programming language \[powerd by community].
+* [Erlang Bookmarks](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks) ⭐ 1,155 | 🐛 0 | 📅 2021-07-31 - All about erlang programming language \[powerd by community].
 * [Erlang Central](https://erlangcentral.org/) - An awesome collections of erlang resource along with live community chat for discussing and seeking help.
 * [Planet Erlang](http://www.planeterlang.com/) - Planet site/RSS feed of blog posts covering topics across the Erlang ecosystem.
 * [Spawned Shelter](http://spawnedshelter.com/) - Erlang Spawned Shelter. A collection of the best articles, videos and presentations related to Erlang.
@@ -316,8 +316,8 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,709 | 🐛 23 | 📅 2022-11-17 for details.
+Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,708 | 🐛 23 | 📅 2022-11-17 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
