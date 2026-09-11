@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,168 | 🐛 32 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,169 | 🐛 32 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -75,7 +75,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 198 | 🌐 Erlang | 📅 2026-09-10 - High speed, real-time web framework and content management system.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 195 | 🌐 Erlang | 📅 2026-09-11 - High speed, real-time web framework and content management system.
 * [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,449 | 🐛 45 | 🌐 Ruby | 📅 2026-07-20.
 * [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 65 | 🌐 Erlang | 📅 2026-09-08.
 
@@ -153,7 +153,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Project build and automation tools.*
 
-* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,818 | 🐛 227 | 🌐 Erlang | 📅 2026-09-10 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
+* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,819 | 🐛 227 | 🌐 Erlang | 📅 2026-09-10 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 * [sync](https://github.com/rustyio/sync) ⭐ 760 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - On-the-fly recompiling for Erlang.
 
@@ -213,7 +213,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for parsing and manipulating text and numbers.*
 
 * [jiffy](https://github.com/davisp/jiffy) ⭐ 880 | 🐛 0 | 🌐 C | 📅 2026-07-01 - JSON NIFs for Erlang.
-* [jsx](https://github.com/talentdeficit/jsx) ⭐ 696 | 🐛 25 | 🌐 Erlang | 📅 2024-06-26 - An erlang application for consuming, producing and manipulating json.
+* [jsx](https://github.com/talentdeficit/jsx) ⭐ 697 | 🐛 25 | 🌐 Erlang | 📅 2024-06-26 - An erlang application for consuming, producing and manipulating json.
 * [eql](https://github.com/artemeff/eql) ⭐ 117 | 🐛 3 | 🌐 Erlang | 📅 2024-01-02 - Erlang with SQL or not.
 * [rec2json](https://github.com/lordnull/rec2json) ⭐ 45 | 🐛 3 | 🌐 Erlang | 📅 2024-07-02 - Generate JSON encoder/decoder from record specs.
 * [qsp](https://github.com/artemeff/qsp) ⭐ 18 | 🐛 0 | 🌐 Erlang | 📅 2016-10-30 - Enhanced query string parser for Erlang.
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

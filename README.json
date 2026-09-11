@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T17:46:56Z",
-            "open_issues": 198,
+            "last_commit": "2026-09-11T15:22:41Z",
+            "open_issues": 195,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 847,
@@ -1080,7 +1080,7 @@
             "open_issues": 227,
             "owner": "erlang",
             "repo": "rebar3",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "build",
               "compile",
@@ -1549,7 +1549,7 @@
             "open_issues": 25,
             "owner": "talentdeficit",
             "repo": "jsx",
-            "stars": 696,
+            "stars": 697,
             "topics": [
               "erlang",
               "json"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:56:50.675Z",
+    "last_updated": "2026-09-11T19:56:06.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
