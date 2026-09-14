@@ -70,14 +70,14 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 65 | 🌐 Erlang | 📅 2026-09-08 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,524 | 🐛 65 | 🌐 Erlang | 📅 2026-09-08 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,890 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 195 | 🌐 Erlang | 📅 2026-09-11 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,451 | 🐛 45 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 65 | 🌐 Erlang | 📅 2026-09-08.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 196 | 🌐 Erlang | 📅 2026-09-14 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,453 | 🐛 45 | 🌐 Ruby | 📅 2026-07-20.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,524 | 🐛 65 | 🌐 Erlang | 📅 2026-09-08.
 
 ## Web Framework Components
 
@@ -153,7 +153,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Project build and automation tools.*
 
-* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,819 | 🐛 227 | 🌐 Erlang | 📅 2026-09-13 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
+* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,819 | 🐛 226 | 🌐 Erlang | 📅 2026-09-14 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 * [sync](https://github.com/rustyio/sync) ⭐ 760 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - On-the-fly recompiling for Erlang.
 
@@ -188,7 +188,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
-* [epgsql](https://github.com/epgsql/epgsql) ⭐ 446 | 🐛 47 | 🌐 Erlang | 📅 2026-08-16 - PostgreSQL Driver for Erlang.
+* [epgsql](https://github.com/epgsql/epgsql) ⭐ 445 | 🐛 47 | 🌐 Erlang | 📅 2026-08-16 - PostgreSQL Driver for Erlang.
 * [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 376 | 🐛 9 | 🌐 Erlang | 📅 2025-06-10 - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [boss\_db](https://github.com/ErlyORM/boss_db) ⭐ 275 | 🐛 61 | 🌐 Erlang | 📅 2024-01-05 - A sharded, caching, pooling, evented ORM for Erlang.
 * [pgsql\_migration](https://github.com/artemeff/pgsql_migration) ⭐ 19 | 🐛 1 | 🌐 Erlang | 📅 2023-01-20 – PostgreSQL migrations for Erlang.
@@ -238,7 +238,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for accessing third party APIs.*
 
 * [restc](https://github.com/kivra/restclient) ⭐ 95 | 🐛 4 | 🌐 Erlang | 📅 2026-08-27 - An Erlang REST client
-* [oauth2c](https://github.com/kivra/oauth2_client) ⭐ 74 | 🐛 4 | 🌐 Erlang | 📅 2026-08-26 - An Erlang oAuth 2 client (uses restc)
+* [oauth2c](https://github.com/kivra/oauth2_client) ⭐ 74 | 🐛 4 | 🌐 Erlang | 📅 2026-09-14 - An Erlang oAuth 2 client (uses restc)
 * [google-token-erlang](https://github.com/ruel/google-token-erlang) ⭐ 4 | 🐛 0 | 🌐 Erlang | 📅 2018-05-02 - Google ID token verifier for Erlang.
 
 ## Networking
@@ -316,8 +316,8 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,708 | 🐛 23 | 📅 2022-11-17 for details.
+Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) ⭐ 1,709 | 🐛 23 | 📅 2022-11-17 for details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
