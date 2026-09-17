@@ -75,7 +75,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 195 | 🌐 Erlang | 📅 2026-09-15 - High speed, real-time web framework and content management system.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 847 | 🐛 194 | 🌐 Erlang | 📅 2026-09-17 - High speed, real-time web framework and content management system.
 * [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,453 | 🐛 45 | 🌐 Ruby | 📅 2026-07-20.
 * [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,523 | 🐛 65 | 🌐 Erlang | 📅 2026-09-16.
 
@@ -206,7 +206,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for implementing authentications schemes.*
 
-* [oauth2](https://github.com/kivra/oauth2) ⭐ 221 | 🐛 1 | 🌐 Erlang | 📅 2026-09-16 - Erlang Oauth2 implementation.
+* [oauth2](https://github.com/kivra/oauth2) ⭐ 221 | 🐛 1 | 🌐 Erlang | 📅 2026-09-17 - Erlang Oauth2 implementation.
 
 ## Text and Numbers
 
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
