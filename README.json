@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T16:32:28Z",
-            "open_issues": 194,
+            "last_commit": "2026-09-19T14:54:27Z",
+            "open_issues": 195,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 847,
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:52:17.286Z",
+    "last_updated": "2026-09-19T19:28:59.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
