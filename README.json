@@ -241,7 +241,7 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T08:54:57Z",
+            "last_commit": "2026-09-27T20:13:15Z",
             "open_issues": 194,
             "owner": "zotonic",
             "repo": "zotonic",
@@ -414,8 +414,8 @@
             "id": 4864481,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T20:02:36Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-27T07:57:39Z",
+            "open_issues": 13,
             "owner": "benoitc",
             "repo": "hackney",
             "stars": 1418,
@@ -443,7 +443,7 @@
             "open_issues": 24,
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 949,
+            "stars": 950,
             "topics": [
               "cowboy",
               "erlang",
@@ -577,7 +577,7 @@
             "open_issues": 50,
             "owner": "proper-testing",
             "repo": "proper",
-            "stars": 918,
+            "stars": 919,
             "topics": [
               "codecov-badge",
               "erlang",
@@ -1076,8 +1076,8 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T13:26:13Z",
-            "open_issues": 226,
+            "last_commit": "2026-09-27T18:44:45Z",
+            "open_issues": 229,
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1820,
@@ -1803,7 +1803,7 @@
             "open_issues": 5,
             "owner": "ninenines",
             "repo": "ranch",
-            "stars": 1243,
+            "stars": 1244,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T20:03:38.838Z",
+    "last_updated": "2026-09-27T20:18:23.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
