@@ -101,11 +101,11 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-09-16T09:02:05Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-28T15:53:01Z",
+            "open_issues": 68,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7521,
+            "stars": 7522,
             "topics": [
               "cowboy",
               "erlang",
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T20:13:15Z",
-            "open_issues": 194,
+            "last_commit": "2026-09-28T12:58:55Z",
+            "open_issues": 193,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 847,
@@ -418,7 +418,7 @@
             "open_issues": 13,
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1418,
+            "stars": 1419,
             "topics": [
               "client",
               "erlang",
@@ -439,11 +439,11 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-09-08T14:51:09Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-28T18:07:20Z",
+            "open_issues": 41,
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 950,
+            "stars": 951,
             "topics": [
               "cowboy",
               "erlang",
@@ -1076,11 +1076,11 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T18:44:45Z",
-            "open_issues": 229,
+            "last_commit": "2026-09-28T17:04:16Z",
+            "open_issues": 226,
             "owner": "erlang",
             "repo": "rebar3",
-            "stars": 1820,
+            "stars": 1821,
             "topics": [
               "build",
               "compile",
@@ -1334,7 +1334,7 @@
             "open_issues": 47,
             "owner": "epgsql",
             "repo": "epgsql",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "erlang",
               "postgres",
@@ -1803,7 +1803,7 @@
             "open_issues": 5,
             "owner": "ninenines",
             "repo": "ranch",
-            "stars": 1244,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 0,
             "owner": "ShoreTel-Inc",
             "repo": "erld",
-            "stars": 190,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:18:23.275Z",
+    "last_updated": "2026-09-28T22:36:32.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
