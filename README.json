@@ -105,7 +105,7 @@
             "open_issues": 72,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7522,
+            "stars": 7521,
             "topics": [
               "cowboy",
               "erlang",
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:18:01Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-02T12:59:44Z",
+            "open_issues": 192,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 848,
@@ -414,11 +414,11 @@
             "id": 4864481,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T07:57:39Z",
+            "last_commit": "2026-10-02T05:42:02Z",
             "open_issues": 14,
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1419,
+            "stars": 1420,
             "topics": [
               "client",
               "erlang",
@@ -439,8 +439,8 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-01T13:05:09Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-02T19:07:03Z",
+            "open_issues": 42,
             "owner": "ninenines",
             "repo": "gun",
             "stars": 951,
@@ -521,7 +521,7 @@
             "language": "Erlang",
             "license": "Apache-2.0",
             "last_commit": "2026-06-17T08:55:38Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "inaka",
             "repo": "shotgun",
             "stars": 168,
@@ -630,7 +630,7 @@
             "open_issues": 0,
             "owner": "heroku",
             "repo": "logplex",
-            "stars": 982,
+            "stars": 983,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:55:35.800Z",
+    "last_updated": "2026-10-02T21:24:25.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
