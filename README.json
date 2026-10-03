@@ -414,8 +414,8 @@
             "id": 4864481,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T05:42:02Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-02T23:48:18Z",
+            "open_issues": 15,
             "owner": "benoitc",
             "repo": "hackney",
             "stars": 1420,
@@ -439,7 +439,7 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-02T19:07:03Z",
+            "last_commit": "2026-10-02T21:52:46Z",
             "open_issues": 42,
             "owner": "ninenines",
             "repo": "gun",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:24:25.597Z",
+    "last_updated": "2026-10-03T04:42:12.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
