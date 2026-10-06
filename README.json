@@ -241,11 +241,11 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:58:23Z",
-            "open_issues": 195,
+            "last_commit": "2026-10-06T18:54:30Z",
+            "open_issues": 193,
             "owner": "zotonic",
             "repo": "zotonic",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "cms",
               "erlang",
@@ -439,8 +439,8 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-06T09:22:51Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-06T14:27:11Z",
+            "open_issues": 34,
             "owner": "ninenines",
             "repo": "gun",
             "stars": 951,
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:16:58.714Z",
+    "last_updated": "2026-10-06T21:47:58.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
