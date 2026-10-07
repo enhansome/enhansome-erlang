@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,166 | 🐛 39 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,167 | 🐛 39 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -70,14 +70,14 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 72 | 🌐 Erlang | 📅 2026-09-29 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 72 | 🌐 Erlang | 📅 2026-10-07 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,889 | 🐛 11 | 🌐 Erlang | 📅 2026-08-16 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 849 | 🐛 193 | 🌐 Erlang | 📅 2026-10-06 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,453 | 🐛 48 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 72 | 🌐 Erlang | 📅 2026-09-29.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 849 | 🐛 193 | 🌐 Erlang | 📅 2026-10-07 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,452 | 🐛 48 | 🌐 Ruby | 📅 2026-07-20.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 72 | 🌐 Erlang | 📅 2026-10-07.
 
 ## Web Framework Components
 
@@ -92,8 +92,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for working with HTTP and scraping websites.*
 
-* [hackney](https://github.com/benoitc/hackney) ⭐ 1,420 | 🐛 14 | 🌐 Erlang | 📅 2026-10-03 - Simple HTTP client in Erlang.
-* [gun](https://github.com/ninenines/gun) ⭐ 951 | 🐛 34 | 🌐 Erlang | 📅 2026-10-06 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
+* [hackney](https://github.com/benoitc/hackney) ⭐ 1,420 | 🐛 16 | 🌐 Erlang | 📅 2026-10-03 - Simple HTTP client in Erlang.
+* [gun](https://github.com/ninenines/gun) ⭐ 951 | 🐛 33 | 🌐 Erlang | 📅 2026-10-07 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 518 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP client.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - Simple, reliable, efficient streaming for Cowboy.
 * [shotgun](https://github.com/inaka/shotgun) ⭐ 168 | 🐛 17 | 🌐 Erlang | 📅 2026-10-05 - For the times you need more than just a gun.
@@ -103,7 +103,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for testing codebases and generating test data.*
 
-* [PropEr](https://github.com/manopapad/proper) ⭐ 919 | 🐛 50 | 🌐 Erlang | 📅 2026-06-24 - A QuickCheck-inspired property-based testing tool for Erlang.
+* [PropEr](https://github.com/manopapad/proper) ⭐ 920 | 🐛 50 | 🌐 Erlang | 📅 2026-06-24 - A QuickCheck-inspired property-based testing tool for Erlang.
 * [tracerl](https://github.com/esl/tracerl) ⭐ 17 | 🐛 0 | 🌐 Erlang | 📅 2014-07-31 - Dynamic tracing tests and utilities for Erlang/OTP
 
 ## Logging
@@ -188,7 +188,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
-* [epgsql](https://github.com/epgsql/epgsql) ⭐ 447 | 🐛 47 | 🌐 Erlang | 📅 2026-08-16 - PostgreSQL Driver for Erlang.
+* [epgsql](https://github.com/epgsql/epgsql) ⭐ 448 | 🐛 47 | 🌐 Erlang | 📅 2026-08-16 - PostgreSQL Driver for Erlang.
 * [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 376 | 🐛 9 | 🌐 Erlang | 📅 2025-06-10 - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [boss\_db](https://github.com/ErlyORM/boss_db) ⭐ 275 | 🐛 61 | 🌐 Erlang | 📅 2024-01-05 - A sharded, caching, pooling, evented ORM for Erlang.
 * [pgsql\_migration](https://github.com/artemeff/pgsql_migration) ⭐ 19 | 🐛 1 | 🌐 Erlang | 📅 2023-01-20 – PostgreSQL migrations for Erlang.
@@ -213,7 +213,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for parsing and manipulating text and numbers.*
 
 * [jiffy](https://github.com/davisp/jiffy) ⭐ 880 | 🐛 0 | 🌐 C | 📅 2026-07-01 - JSON NIFs for Erlang.
-* [jsx](https://github.com/talentdeficit/jsx) ⭐ 697 | 🐛 25 | 🌐 Erlang | 📅 2024-06-26 - An erlang application for consuming, producing and manipulating json.
+* [jsx](https://github.com/talentdeficit/jsx) ⭐ 697 | 🐛 24 | 🌐 Erlang | 📅 2024-06-26 - An erlang application for consuming, producing and manipulating json.
 * [eql](https://github.com/artemeff/eql) ⭐ 117 | 🐛 3 | 🌐 Erlang | 📅 2024-01-02 - Erlang with SQL or not.
 * [rec2json](https://github.com/lordnull/rec2json) ⭐ 45 | 🐛 3 | 🌐 Erlang | 📅 2024-07-02 - Generate JSON encoder/decoder from record specs.
 * [qsp](https://github.com/artemeff/qsp) ⭐ 18 | 🐛 0 | 🌐 Erlang | 📅 2016-10-30 - Enhanced query string parser for Erlang.
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
