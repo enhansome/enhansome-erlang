@@ -101,11 +101,11 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-07T19:24:20Z",
-            "open_issues": 72,
+            "last_commit": "2026-10-08T15:40:41Z",
+            "open_issues": 61,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7521,
+            "stars": 7522,
             "topics": [
               "cowboy",
               "erlang",
@@ -167,7 +167,7 @@
             "open_issues": 81,
             "owner": "ChicagoBoss",
             "repo": "ChicagoBoss",
-            "stars": 1848,
+            "stars": 1849,
             "topics": [
               "erlang",
               "framework",
@@ -241,7 +241,7 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T21:37:50Z",
+            "last_commit": "2026-10-08T13:26:51Z",
             "open_issues": 193,
             "owner": "zotonic",
             "repo": "zotonic",
@@ -439,8 +439,8 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-07T19:30:24Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-08T20:25:51Z",
+            "open_issues": 34,
             "owner": "ninenines",
             "repo": "gun",
             "stars": 951,
@@ -1080,7 +1080,7 @@
             "open_issues": 226,
             "owner": "erlang",
             "repo": "rebar3",
-            "stars": 1821,
+            "stars": 1822,
             "topics": [
               "build",
               "compile",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T22:11:14.590Z",
+    "last_updated": "2026-10-08T22:18:15.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
