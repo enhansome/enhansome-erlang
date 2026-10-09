@@ -101,11 +101,11 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-08T15:40:41Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-09T08:18:29Z",
+            "open_issues": 60,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7522,
+            "stars": 7520,
             "topics": [
               "cowboy",
               "erlang",
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T13:26:51Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-09T15:49:38Z",
+            "open_issues": 194,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 849,
@@ -439,11 +439,11 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-08T20:25:51Z",
+            "last_commit": "2026-10-09T09:44:24Z",
             "open_issues": 34,
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 951,
+            "stars": 950,
             "topics": [
               "cowboy",
               "erlang",
@@ -574,10 +574,10 @@
             "language": "Erlang",
             "license": "GPL-3.0",
             "last_commit": "2026-06-24T06:05:22Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "proper-testing",
             "repo": "proper",
-            "stars": 920,
+            "stars": 919,
             "topics": [
               "codecov-badge",
               "erlang",
@@ -630,7 +630,7 @@
             "open_issues": 0,
             "owner": "heroku",
             "repo": "logplex",
-            "stars": 983,
+            "stars": 981,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -1080,7 +1080,7 @@
             "open_issues": 226,
             "owner": "erlang",
             "repo": "rebar3",
-            "stars": 1822,
+            "stars": 1821,
             "topics": [
               "build",
               "compile",
@@ -1799,11 +1799,11 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-09-08T13:10:47Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-09T08:15:35Z",
+            "open_issues": 6,
             "owner": "ninenines",
             "repo": "ranch",
-            "stars": 1245,
+            "stars": 1244,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -1824,7 +1824,7 @@
             "open_issues": 9,
             "owner": "priestjim",
             "repo": "gen_rpc",
-            "stars": 229,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:18:15.991Z",
+    "last_updated": "2026-10-09T21:49:22.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
