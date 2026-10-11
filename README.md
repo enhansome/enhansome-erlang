@@ -76,7 +76,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
 * [Zotonic](https://github.com/zotonic/zotonic) ⭐ 849 | 🐛 194 | 🌐 Erlang | 📅 2026-10-09 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,454 | 🐛 48 | 🌐 Ruby | 📅 2026-07-20.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,453 | 🐛 48 | 🌐 Ruby | 📅 2026-07-20.
 * [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 60 | 🌐 Erlang | 📅 2026-10-09.
 
 ## Web Framework Components
@@ -147,7 +147,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [eflame](https://github.com/proger/eflame) ⭐ 428 | 🐛 6 | 🌐 Perl | 📅 2023-12-13 - A Flame Graph profiler for Erlang.
 * [Concuerror](https://github.com/parapluu/Concuerror) ⭐ 351 | 🐛 17 | 🌐 Erlang | 📅 2026-06-24 - Concuerror is a systematic testing tool for concurrent Erlang programs.
-* [geas](https://github.com/crownedgrouse/geas) ⭐ 111 | 🐛 1 | 🌐 Erlang | 📅 2026-06-14 - Geas is a tool that will detect the runnable official Erlang release window for your project, including its dependencies and provides many useful informations.
+* [geas](https://github.com/crownedgrouse/geas) ⭐ 111 | 🐛 1 | 🌐 Erlang | 📅 2026-10-11 - Geas is a tool that will detect the runnable official Erlang release window for your project, including its dependencies and provides many useful informations.
 
 ## Build Tools
 
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

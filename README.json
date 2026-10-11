@@ -1046,7 +1046,7 @@
             "id": 33823779,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-06-14T14:58:18Z",
+            "last_commit": "2026-10-11T15:35:38Z",
             "open_issues": 1,
             "owner": "crownedgrouse",
             "repo": "geas",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:38:23.827Z",
+    "last_updated": "2026-10-11T21:01:52.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
