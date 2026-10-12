@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:49:38Z",
-            "open_issues": 194,
+            "last_commit": "2026-10-12T20:34:15Z",
+            "open_issues": 195,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 849,
@@ -440,7 +440,7 @@
             "language": "Erlang",
             "license": "ISC",
             "last_commit": "2026-10-09T09:44:24Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "ninenines",
             "repo": "gun",
             "stars": 950,
@@ -630,7 +630,7 @@
             "open_issues": 0,
             "owner": "heroku",
             "repo": "logplex",
-            "stars": 981,
+            "stars": 980,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -1076,11 +1076,11 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T20:25:21Z",
-            "open_issues": 226,
+            "last_commit": "2026-10-12T19:17:01Z",
+            "open_issues": 227,
             "owner": "erlang",
             "repo": "rebar3",
-            "stars": 1821,
+            "stars": 1822,
             "topics": [
               "build",
               "compile",
@@ -1799,8 +1799,8 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-09T08:15:35Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-12T14:31:40Z",
+            "open_issues": 7,
             "owner": "ninenines",
             "repo": "ranch",
             "stars": 1244,
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:01:52.787Z",
+    "last_updated": "2026-10-12T23:43:35.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
