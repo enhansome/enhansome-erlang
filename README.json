@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "erlware",
             "repo": "relx",
-            "stars": 694,
+            "stars": 693,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -101,8 +101,8 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-09T08:18:29Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-13T18:26:17Z",
+            "open_issues": 59,
             "owner": "ninenines",
             "repo": "cowboy",
             "stars": 7520,
@@ -241,11 +241,11 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T20:34:15Z",
-            "open_issues": 195,
+            "last_commit": "2026-10-13T19:20:45Z",
+            "open_issues": 192,
             "owner": "zotonic",
             "repo": "zotonic",
-            "stars": 849,
+            "stars": 850,
             "topics": [
               "cms",
               "erlang",
@@ -439,8 +439,8 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-09T09:44:24Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-13T14:09:55Z",
+            "open_issues": 34,
             "owner": "ninenines",
             "repo": "gun",
             "stars": 950,
@@ -482,7 +482,7 @@
             "open_issues": 19,
             "owner": "cmullaparthi",
             "repo": "ibrowse",
-            "stars": 518,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -524,7 +524,7 @@
             "open_issues": 17,
             "owner": "inaka",
             "repo": "shotgun",
-            "stars": 168,
+            "stars": 167,
             "topics": [
               "erlang",
               "hacktoberfest",
@@ -630,7 +630,7 @@
             "open_issues": 0,
             "owner": "heroku",
             "repo": "logplex",
-            "stars": 980,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -832,7 +832,7 @@
             "open_issues": 5,
             "owner": "massemanet",
             "repo": "eper",
-            "stars": 439,
+            "stars": 438,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -1076,8 +1076,8 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T19:17:01Z",
-            "open_issues": 227,
+            "last_commit": "2026-10-13T17:08:47Z",
+            "open_issues": 225,
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1822,
@@ -1255,7 +1255,7 @@
             "open_issues": 45,
             "owner": "devinus",
             "repo": "poolboy",
-            "stars": 1598,
+            "stars": 1597,
             "topics": [
               "erlang",
               "pool",
@@ -1549,7 +1549,7 @@
             "open_issues": 24,
             "owner": "talentdeficit",
             "repo": "jsx",
-            "stars": 697,
+            "stars": 696,
             "topics": [
               "erlang",
               "json"
@@ -1799,7 +1799,7 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-12T14:31:40Z",
+            "last_commit": "2026-10-13T12:40:52Z",
             "open_issues": 7,
             "owner": "ninenines",
             "repo": "ranch",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:43:35.953Z",
+    "last_updated": "2026-10-13T21:55:37.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
