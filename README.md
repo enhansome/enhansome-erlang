@@ -245,7 +245,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools for using network related stuff.*
 
-* [ranch](https://github.com/ninenines/ranch) ⭐ 1,245 | 🐛 2 | 🌐 Erlang | 📅 2026-10-16 - Socket acceptor pool for TCP protocols.
+* [ranch](https://github.com/ninenines/ranch) ⭐ 1,245 | 🐛 6 | 🌐 Erlang | 📅 2026-10-17 - Socket acceptor pool for TCP protocols.
 * [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 228 | 🐛 9 | 🌐 Erlang | 📅 2025-11-05 - A scalable RPC library for Erlang-VM based languages.
 * [barrel\_tcp](https://github.com/benoitc-attic/barrel_tcp) ⭐ 83 | 🐛 1 | 🌐 Erlang | 📅 2015-07-28 - barrel\_tcp is a generic TCP acceptor pool with low latency in Erlang.
 * [gossiperl](https://github.com/gossiperl/gossiperl) ⭐ 48 | 🐛 13 | 🌐 Erlang | 📅 2021-09-30 - Language agnostic gossip middleware and message bus written in Erlang.
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

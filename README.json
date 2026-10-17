@@ -1799,8 +1799,8 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-16T19:44:30Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-17T16:47:04Z",
+            "open_issues": 6,
             "owner": "ninenines",
             "repo": "ranch",
             "stars": 1245,
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:01:05.666Z",
+    "last_updated": "2026-10-17T19:37:25.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
