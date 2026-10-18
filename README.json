@@ -105,7 +105,7 @@
             "open_issues": 64,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7520,
+            "stars": 7519,
             "topics": [
               "cowboy",
               "erlang",
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T10:14:48Z",
-            "open_issues": 193,
+            "last_commit": "2026-10-18T16:14:17Z",
+            "open_issues": 192,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 850,
@@ -418,7 +418,7 @@
             "open_issues": 17,
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1420,
+            "stars": 1419,
             "topics": [
               "client",
               "erlang",
@@ -1076,8 +1076,8 @@
             "id": 26610130,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T17:08:47Z",
-            "open_issues": 226,
+            "last_commit": "2026-10-18T18:44:29Z",
+            "open_issues": 228,
             "owner": "erlang",
             "repo": "rebar3",
             "stars": 1822,
@@ -1799,7 +1799,7 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-17T16:47:04Z",
+            "last_commit": "2026-10-18T17:31:54Z",
             "open_issues": 6,
             "owner": "ninenines",
             "repo": "ranch",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:37:25.610Z",
+    "last_updated": "2026-10-18T19:32:24.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
@@ -2083,7 +2083,7 @@
       "open_issues": 23,
       "owner": "drobakowski",
       "repo": "awesome-erlang",
-      "stars": 1710,
+      "stars": 1709,
       "topics": [
         "awesome",
         "awesome-list",
