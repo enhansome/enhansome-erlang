@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "erlware",
             "repo": "relx",
-            "stars": 693,
+            "stars": 694,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -102,7 +102,7 @@
             "language": "Erlang",
             "license": "ISC",
             "last_commit": "2026-10-15T11:38:19Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "ninenines",
             "repo": "cowboy",
             "stars": 7519,
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T14:28:00Z",
-            "open_issues": 194,
+            "last_commit": "2026-10-20T17:50:47Z",
+            "open_issues": 193,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 850,
@@ -418,7 +418,7 @@
             "open_issues": 18,
             "owner": "benoitc",
             "repo": "hackney",
-            "stars": 1419,
+            "stars": 1420,
             "topics": [
               "client",
               "erlang",
@@ -443,7 +443,7 @@
             "open_issues": 33,
             "owner": "ninenines",
             "repo": "gun",
-            "stars": 950,
+            "stars": 951,
             "topics": [
               "cowboy",
               "erlang",
@@ -577,7 +577,7 @@
             "open_issues": 49,
             "owner": "proper-testing",
             "repo": "proper",
-            "stars": 919,
+            "stars": 918,
             "topics": [
               "codecov-badge",
               "erlang",
@@ -1132,7 +1132,7 @@
             "open_issues": 17,
             "owner": "rustyio",
             "repo": "sync",
-            "stars": 761,
+            "stars": 760,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -1799,7 +1799,7 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-10-19T17:38:23Z",
+            "last_commit": "2026-10-20T16:16:38Z",
             "open_issues": 6,
             "owner": "ninenines",
             "repo": "ranch",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:39:50.419Z",
+    "last_updated": "2026-10-20T20:47:11.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
