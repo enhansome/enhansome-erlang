@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,167 | 🐛 40 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,168 | 🐛 40 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -70,14 +70,14 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 66 | 🌐 Erlang | 📅 2026-10-15 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 66 | 🌐 Erlang | 📅 2026-10-15 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,889 | 🐛 11 | 🌐 Erlang | 📅 2026-10-24 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 156 | 🌐 Erlang | 📅 2026-10-26 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,457 | 🐛 50 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 66 | 🌐 Erlang | 📅 2026-10-15.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 155 | 🌐 Erlang | 📅 2026-10-27 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,456 | 🐛 50 | 🌐 Ruby | 📅 2026-07-20.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 66 | 🌐 Erlang | 📅 2026-10-15.
 
 ## Web Framework Components
 
@@ -189,7 +189,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [epgsql](https://github.com/epgsql/epgsql) ⭐ 448 | 🐛 47 | 🌐 Erlang | 📅 2026-08-16 - PostgreSQL Driver for Erlang.
-* [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 377 | 🐛 9 | 🌐 Erlang | 📅 2025-06-10 - MySQL/OTP – MySQL driver for Erlang/OTP.
+* [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 377 | 🐛 10 | 🌐 Erlang | 📅 2025-06-10 - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [boss\_db](https://github.com/ErlyORM/boss_db) ⭐ 275 | 🐛 61 | 🌐 Erlang | 📅 2024-01-05 - A sharded, caching, pooling, evented ORM for Erlang.
 * [pgsql\_migration](https://github.com/artemeff/pgsql_migration) ⭐ 19 | 🐛 1 | 🌐 Erlang | 📅 2023-01-20 – PostgreSQL migrations for Erlang.
 
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
