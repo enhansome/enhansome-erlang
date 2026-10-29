@@ -70,14 +70,14 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 66 | 🌐 Erlang | 📅 2026-10-15 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 67 | 🌐 Erlang | 📅 2026-10-15 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,889 | 🐛 11 | 🌐 Erlang | 📅 2026-10-24 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 155 | 🌐 Erlang | 📅 2026-10-28 - High speed, real-time web framework and content management system.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 155 | 🌐 Erlang | 📅 2026-10-29 - High speed, real-time web framework and content management system.
 * [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,455 | 🐛 50 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 66 | 🌐 Erlang | 📅 2026-10-15.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 67 | 🌐 Erlang | 📅 2026-10-15.
 
 ## Web Framework Components
 
@@ -153,7 +153,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Project build and automation tools.*
 
-* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,822 | 🐛 226 | 🌐 Erlang | 📅 2026-10-26 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
+* [rebar3](https://github.com/rebar/rebar3) ⭐ 1,822 | 🐛 227 | 🌐 Erlang | 📅 2026-10-26 - A build tool for Erlang which can manage Erlang packages from [Hex.pm](https://hex.pm/). See more at [rebar3.org](https://www.rebar3.org/)
 * [rebar](https://github.com/rebar/rebar) ⚠️ Archived - Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
 * [sync](https://github.com/rustyio/sync) ⭐ 760 | 🐛 17 | 🌐 Erlang | 📅 2025-06-30 - On-the-fly recompiling for Erlang.
 
@@ -189,7 +189,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [epgsql](https://github.com/epgsql/epgsql) ⭐ 448 | 🐛 47 | 🌐 Erlang | 📅 2026-08-16 - PostgreSQL Driver for Erlang.
-* [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 377 | 🐛 10 | 🌐 Erlang | 📅 2025-06-10 - MySQL/OTP – MySQL driver for Erlang/OTP.
+* [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 377 | 🐛 9 | 🌐 Erlang | 📅 2026-10-29 - MySQL/OTP – MySQL driver for Erlang/OTP.
 * [boss\_db](https://github.com/ErlyORM/boss_db) ⭐ 275 | 🐛 61 | 🌐 Erlang | 📅 2024-01-05 - A sharded, caching, pooling, evented ORM for Erlang.
 * [pgsql\_migration](https://github.com/artemeff/pgsql_migration) ⭐ 19 | 🐛 1 | 🌐 Erlang | 📅 2023-01-20 – PostgreSQL migrations for Erlang.
 
@@ -206,7 +206,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for implementing authentications schemes.*
 
-* [oauth2](https://github.com/kivra/oauth2) ⭐ 221 | 🐛 1 | 🌐 Erlang | 📅 2026-10-22 - Erlang Oauth2 implementation.
+* [oauth2](https://github.com/kivra/oauth2) ⭐ 221 | 🐛 1 | 🌐 Erlang | 📅 2026-10-29 - Erlang Oauth2 implementation.
 
 ## Text and Numbers
 
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
