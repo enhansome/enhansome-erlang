@@ -192,7 +192,7 @@
             "open_issues": 1,
             "owner": "synrc",
             "repo": "n2o",
-            "stars": 1340,
+            "stars": 1341,
             "topics": [
               "bert",
               "mqtt",
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T20:20:39Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-31T20:08:45Z",
+            "open_issues": 156,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 850,
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:39:11.410Z",
+    "last_updated": "2026-10-31T20:35:58.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
