@@ -101,7 +101,7 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-06T13:52:49Z",
+            "last_commit": "2026-11-07T18:58:18Z",
             "open_issues": 59,
             "owner": "ninenines",
             "repo": "cowboy",
@@ -1080,7 +1080,7 @@
             "open_issues": 231,
             "owner": "erlang",
             "repo": "rebar3",
-            "stars": 1824,
+            "stars": 1825,
             "topics": [
               "build",
               "compile",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:15:14.538Z",
+    "last_updated": "2026-11-07T21:01:17.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
