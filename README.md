@@ -1,6 +1,6 @@
 # Awesome Erlang with stars
 
-A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,168 | 🐛 44 | 🌐 Elixir | 📅 2025-10-12.
+A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,165 | 🐛 44 | 🌐 Elixir | 📅 2025-10-12.
 
 * [Awesome Erlang](#awesome-Erlang)
   * [Package Management](#package-management)
@@ -70,14 +70,14 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 59 | 🌐 Erlang | 📅 2026-11-07 - A simple HTTP server.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 59 | 🌐 Erlang | 📅 2026-11-08 - A simple HTTP server.
 * [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,889 | 🐛 11 | 🌐 Erlang | 📅 2026-10-24 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,341 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 982 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 851 | 🐛 153 | 🌐 Erlang | 📅 2026-11-06 - High speed, real-time web framework and content management system.
-* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,450 | 🐛 50 | 🌐 Ruby | 📅 2026-07-20.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,520 | 🐛 59 | 🌐 Erlang | 📅 2026-11-07.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 153 | 🌐 Erlang | 📅 2026-11-06 - High speed, real-time web framework and content management system.
+* [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,449 | 🐛 50 | 🌐 Ruby | 📅 2026-07-20.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,521 | 🐛 59 | 🌐 Erlang | 📅 2026-11-08.
 
 ## Web Framework Components
 
@@ -92,7 +92,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries for working with HTTP and scraping websites.*
 
-* [hackney](https://github.com/benoitc/hackney) ⭐ 1,419 | 🐛 22 | 🌐 Erlang | 📅 2026-10-26 - Simple HTTP client in Erlang.
+* [hackney](https://github.com/benoitc/hackney) ⭐ 1,419 | 🐛 20 | 🌐 Erlang | 📅 2026-11-08 - Simple HTTP client in Erlang.
 * [gun](https://github.com/ninenines/gun) ⭐ 949 | 🐛 33 | 🌐 Erlang | 📅 2026-11-06 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 517 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP client.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - Simple, reliable, efficient streaming for Cowboy.
@@ -146,8 +146,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and tools for analysing, parsing and manipulation codebases.*
 
 * [eflame](https://github.com/proger/eflame) ⭐ 428 | 🐛 6 | 🌐 Perl | 📅 2023-12-13 - A Flame Graph profiler for Erlang.
-* [Concuerror](https://github.com/parapluu/Concuerror) ⭐ 351 | 🐛 17 | 🌐 Erlang | 📅 2026-06-24 - Concuerror is a systematic testing tool for concurrent Erlang programs.
-* [geas](https://github.com/crownedgrouse/geas) ⭐ 111 | 🐛 1 | 🌐 Erlang | 📅 2026-10-11 - Geas is a tool that will detect the runnable official Erlang release window for your project, including its dependencies and provides many useful informations.
+* [Concuerror](https://github.com/parapluu/Concuerror) ⭐ 350 | 🐛 17 | 🌐 Erlang | 📅 2026-06-24 - Concuerror is a systematic testing tool for concurrent Erlang programs.
+* [geas](https://github.com/crownedgrouse/geas) ⭐ 110 | 🐛 1 | 🌐 Erlang | 📅 2026-10-11 - Geas is a tool that will detect the runnable official Erlang release window for your project, including its dependencies and provides many useful informations.
 
 ## Build Tools
 
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

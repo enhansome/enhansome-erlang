@@ -101,11 +101,11 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-07T18:58:18Z",
+            "last_commit": "2026-11-08T20:05:57Z",
             "open_issues": 59,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7520,
+            "stars": 7521,
             "topics": [
               "cowboy",
               "erlang",
@@ -245,7 +245,7 @@
             "open_issues": 153,
             "owner": "zotonic",
             "repo": "zotonic",
-            "stars": 851,
+            "stars": 850,
             "topics": [
               "cms",
               "erlang",
@@ -414,8 +414,8 @@
             "id": 4864481,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T05:01:14Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-08T21:17:00Z",
+            "open_issues": 20,
             "owner": "benoitc",
             "repo": "hackney",
             "stars": 1419,
@@ -1009,7 +1009,7 @@
             "open_issues": 17,
             "owner": "parapluu",
             "repo": "Concuerror",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "automatic",
               "codecov",
@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "crownedgrouse",
             "repo": "geas",
-            "stars": 111,
+            "stars": 110,
             "topics": [
               "beam-files",
               "erlang"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:01:17.673Z",
+    "last_updated": "2026-11-08T21:18:25.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
