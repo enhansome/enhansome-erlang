@@ -105,7 +105,7 @@
             "open_issues": 61,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7522,
+            "stars": 7523,
             "topics": [
               "cowboy",
               "erlang",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:46:08.836Z",
+    "last_updated": "2026-11-14T21:38:26.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
