@@ -101,11 +101,11 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-13T14:56:55Z",
+            "last_commit": "2026-11-16T19:19:51Z",
             "open_issues": 61,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7521,
+            "stars": 7522,
             "topics": [
               "cowboy",
               "erlang",
@@ -167,7 +167,7 @@
             "open_issues": 81,
             "owner": "ChicagoBoss",
             "repo": "ChicagoBoss",
-            "stars": 1848,
+            "stars": 1849,
             "topics": [
               "erlang",
               "framework",
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T08:52:18Z",
-            "open_issues": 150,
+            "last_commit": "2026-11-16T23:28:42Z",
+            "open_issues": 151,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 850,
@@ -439,7 +439,7 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-13T15:48:56Z",
+            "last_commit": "2026-11-16T19:19:49Z",
             "open_issues": 34,
             "owner": "ninenines",
             "repo": "gun",
@@ -892,7 +892,7 @@
             "language": "Erlang",
             "license": "MIT",
             "last_commit": "2026-11-01T01:29:32Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "lpgauth",
             "repo": "statsderl",
             "stars": 100,
@@ -1009,7 +1009,7 @@
             "open_issues": 17,
             "owner": "parapluu",
             "repo": "Concuerror",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "automatic",
               "codecov",
@@ -1132,7 +1132,7 @@
             "open_issues": 17,
             "owner": "rustyio",
             "repo": "sync",
-            "stars": 761,
+            "stars": 762,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -1228,7 +1228,7 @@
             "open_issues": 1,
             "owner": "kvakvs",
             "repo": "tx",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -1524,7 +1524,7 @@
             "id": 1564769,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-01T00:19:34Z",
+            "last_commit": "2026-11-16T23:54:32Z",
             "open_issues": 0,
             "owner": "davisp",
             "repo": "jiffy",
@@ -1799,7 +1799,7 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-13T22:07:57Z",
+            "last_commit": "2026-11-16T22:51:51Z",
             "open_issues": 14,
             "owner": "ninenines",
             "repo": "ranch",
@@ -1939,7 +1939,7 @@
             "open_issues": 10,
             "owner": "basho",
             "repo": "riak_dt",
-            "stars": 357,
+            "stars": 358,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:58:53.284Z",
+    "last_updated": "2026-11-17T00:57:43.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
