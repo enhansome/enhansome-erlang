@@ -101,11 +101,11 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-18T17:13:09Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-19T16:21:02Z",
+            "open_issues": 61,
             "owner": "ninenines",
             "repo": "cowboy",
-            "stars": 7522,
+            "stars": 7524,
             "topics": [
               "cowboy",
               "erlang",
@@ -167,7 +167,7 @@
             "open_issues": 81,
             "owner": "ChicagoBoss",
             "repo": "ChicagoBoss",
-            "stars": 1849,
+            "stars": 1848,
             "topics": [
               "erlang",
               "framework",
@@ -192,7 +192,7 @@
             "open_issues": 1,
             "owner": "synrc",
             "repo": "n2o",
-            "stars": 1341,
+            "stars": 1340,
             "topics": [
               "bert",
               "mqtt",
@@ -219,7 +219,7 @@
             "open_issues": 16,
             "owner": "nitrogen",
             "repo": "nitrogen",
-            "stars": 983,
+            "stars": 981,
             "topics": [
               "erlang",
               "javascript",
@@ -241,8 +241,8 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:49:15Z",
-            "open_issues": 152,
+            "last_commit": "2026-11-19T16:15:01Z",
+            "open_issues": 150,
             "owner": "zotonic",
             "repo": "zotonic",
             "stars": 850,
@@ -414,7 +414,7 @@
             "id": 4864481,
             "language": "Erlang",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T16:52:04Z",
+            "last_commit": "2026-11-19T23:34:36Z",
             "open_issues": 14,
             "owner": "benoitc",
             "repo": "hackney",
@@ -439,8 +439,8 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-18T17:13:07Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-19T16:20:59Z",
+            "open_issues": 34,
             "owner": "ninenines",
             "repo": "gun",
             "stars": 948,
@@ -1080,7 +1080,7 @@
             "open_issues": 230,
             "owner": "erlang",
             "repo": "rebar3",
-            "stars": 1826,
+            "stars": 1825,
             "topics": [
               "build",
               "compile",
@@ -1132,7 +1132,7 @@
             "open_issues": 17,
             "owner": "rustyio",
             "repo": "sync",
-            "stars": 762,
+            "stars": 761,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -1524,7 +1524,7 @@
             "id": 1564769,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T21:19:57Z",
+            "last_commit": "2026-11-19T20:01:42Z",
             "open_issues": 0,
             "owner": "davisp",
             "repo": "jiffy",
@@ -1799,8 +1799,8 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-18T14:43:24Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-19T18:53:57Z",
+            "open_issues": 15,
             "owner": "ninenines",
             "repo": "ranch",
             "stars": 1244,
@@ -1939,7 +1939,7 @@
             "open_issues": 10,
             "owner": "basho",
             "repo": "riak_dt",
-            "stars": 358,
+            "stars": 359,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2040,7 +2040,7 @@
             "open_issues": 3,
             "owner": "ferd",
             "repo": "erlang-history",
-            "stars": 496,
+            "stars": 493,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:29:43.187Z",
+    "last_updated": "2026-11-19T23:42:01.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
