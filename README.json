@@ -101,8 +101,8 @@
             "id": 1460612,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-26T09:39:41Z",
-            "open_issues": 61,
+            "last_commit": "2026-11-27T15:45:42Z",
+            "open_issues": 62,
             "owner": "ninenines",
             "repo": "cowboy",
             "stars": 7525,
@@ -146,7 +146,7 @@
             "open_issues": 11,
             "owner": "mochi",
             "repo": "mochiweb",
-            "stars": 1890,
+            "stars": 1891,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:45.003Z"
@@ -241,7 +241,7 @@
             "id": 1847706,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T13:35:08Z",
+            "last_commit": "2026-11-27T22:40:28Z",
             "open_issues": 151,
             "owner": "zotonic",
             "repo": "zotonic",
@@ -439,8 +439,8 @@
             "id": 12277346,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-26T10:17:33Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-27T21:44:07Z",
+            "open_issues": 35,
             "owner": "ninenines",
             "repo": "gun",
             "stars": 949,
@@ -1799,7 +1799,7 @@
             "id": 3944995,
             "language": "Erlang",
             "license": "ISC",
-            "last_commit": "2026-11-26T10:01:30Z",
+            "last_commit": "2026-11-27T12:22:45Z",
             "open_issues": 12,
             "owner": "ninenines",
             "repo": "ranch",
@@ -2071,7 +2071,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:05:59.966Z",
+    "last_updated": "2026-11-28T00:38:06.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Erlang libraries, resources and shiny things.",

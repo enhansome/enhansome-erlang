@@ -70,14 +70,14 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Web development frameworks.*
 
-* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 61 | 🌐 Erlang | 📅 2026-11-26 - A simple HTTP server.
-* [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,890 | 🐛 11 | 🌐 Erlang | 📅 2026-11-13 - An Erlang library for building lightweight HTTP servers.
+* [cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 62 | 🌐 Erlang | 📅 2026-11-27 - A simple HTTP server.
+* [MochiWeb](https://github.com/mochi/mochiweb) ⭐ 1,891 | 🐛 11 | 🌐 Erlang | 📅 2026-11-13 - An Erlang library for building lightweight HTTP servers.
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) ⭐ 1,848 | 🐛 81 | 🌐 Erlang | 📅 2022-01-10 - A server framework inspired by Rails and written in Erlang.
 * [N2O](https://github.com/synrc/n2o) ⭐ 1,340 | 🐛 1 | 🌐 Erlang | 📅 2026-06-04 - WebSocket Application Server.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) ⭐ 981 | 🐛 16 | 🌐 Erlang | 📅 2026-07-26 - Framework to build web applications (including front-end) in pure Erlang.
-* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 151 | 🌐 Erlang | 📅 2026-11-26 - High speed, real-time web framework and content management system.
+* [Zotonic](https://github.com/zotonic/zotonic) ⭐ 850 | 🐛 151 | 🌐 Erlang | 📅 2026-11-27 - High speed, real-time web framework and content management system.
 * [Axiom](https://github.com/tsujigiri/axiom) ⭐ 264 | 🐛 6 | 🌐 Erlang | 📅 2023-02-16 - A micro-framework, inspired by Ruby's [Sinatra](https://github.com/sinatra/sinatra) ⭐ 12,454 | 🐛 53 | 🌐 Ruby | 📅 2026-11-18.
-* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 61 | 🌐 Erlang | 📅 2026-11-26.
+* [Giallo](https://github.com/kivra/giallo) ⚠️ Archived - A small and flexible web framework on top of [Cowboy](https://github.com/ninenines/cowboy) ⭐ 7,525 | 🐛 62 | 🌐 Erlang | 📅 2026-11-27.
 
 ## Web Framework Components
 
@@ -93,7 +93,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for working with HTTP and scraping websites.*
 
 * [hackney](https://github.com/benoitc/hackney) ⭐ 1,417 | 🐛 13 | 🌐 Erlang | 📅 2026-11-22 - Simple HTTP client in Erlang.
-* [gun](https://github.com/ninenines/gun) ⭐ 949 | 🐛 33 | 🌐 Erlang | 📅 2026-11-26 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
+* [gun](https://github.com/ninenines/gun) ⭐ 949 | 🐛 35 | 🌐 Erlang | 📅 2026-11-27 - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) ⭐ 517 | 🐛 19 | 🌐 Erlang | 📅 2026-05-01 - Erlang HTTP client.
 * [bullet](https://github.com/ninenines/bullet) ⚠️ Archived - Simple, reliable, efficient streaming for Cowboy.
 * [shotgun](https://github.com/inaka/shotgun) ⭐ 168 | 🐛 15 | 🌐 Erlang | 📅 2026-11-12 - For the times you need more than just a gun.
@@ -245,7 +245,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 *Libraries and tools for using network related stuff.*
 
-* [ranch](https://github.com/ninenines/ranch) ⭐ 1,244 | 🐛 12 | 🌐 Erlang | 📅 2026-11-26 - Socket acceptor pool for TCP protocols.
+* [ranch](https://github.com/ninenines/ranch) ⭐ 1,244 | 🐛 12 | 🌐 Erlang | 📅 2026-11-27 - Socket acceptor pool for TCP protocols.
 * [gen\_rpc](https://github.com/priestjim/gen_rpc) ⭐ 229 | 🐛 1 | 🌐 Erlang | 📅 2026-11-09 - A scalable RPC library for Erlang-VM based languages.
 * [barrel\_tcp](https://github.com/benoitc-attic/barrel_tcp) ⭐ 83 | 🐛 1 | 🌐 Erlang | 📅 2015-07-28 - barrel\_tcp is a generic TCP acceptor pool with low latency in Erlang.
 * [gossiperl](https://github.com/gossiperl/gossiperl) ⭐ 48 | 🐛 13 | 🌐 Erlang | 📅 2021-09-30 - Language agnostic gossip middleware and message bus written in Erlang.
@@ -320,4 +320,4 @@ Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/mas
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
